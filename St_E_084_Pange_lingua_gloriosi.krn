@@ -1,0 +1,127 @@
+!!!COM: Anonymous
+!!!CDT: [?]
+!!!OTL@@LAT: Pange lingua gloriosi
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook E
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	3
+**kern	**kern	**text	**kern	**text
+*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*I"Alto	*	*I"Canto	*
+=1-	=1-	=1-	=1-	=1-
+*clefF4	*clefG2	*	*clefG2	*
+*k[b-]	*k[b-]	*	*k[b-]	*
+*M3/1	*M3/1	*	*M3/1	*
+0F	0f	Pan-	0f	Pan-
+1C	1e	-ge	1g	-ge
+=2	=2	=2	=2	=2
+0F	0f	lin-	0a	lin-
+1F	1f	-gua	1a	-gua
+=3	=3	=3	=3	=3
+0C	0e	glo-	0g	glo-
+1F	1f	-ri-	1a	-ri-
+=4	=4	=4	=4	=4
+0C	0g	-o-	0b-	-o-
+1F	1f	.	1a	.
+=5	=5	=5	=5	=5
+0.F	0.f	-si	0.a	-si
+=6	=6	=6	=6	=6
+1C	1e	glo-	1g	glo-
+1F	1f	-ri-	1a	-ri-
+1C	1e	-o-	1g	-o-
+=7	=7	=7	=7	=7
+0.FF	0.f	-si	0.f	-si
+=8	=8	=8	=8	=8
+!!linebreak:original
+0F	0a	Cor-	0f	Cor-
+1E	1g	-po-	1g	-po-
+=9	=9	=9	=9	=9
+0D	0f	-ris	0a	-ris
+1BB-	1f	my-	2b-\	my-
+.	.	.	2a/	.
+=10	=10	=10	=10	=10
+0C	0f	-ste-	0g	-ste-
+1C	1e	-ri-	1g	-ri-
+=11	=11	=11	=11	=11
+0.FF	0.f	-um	0.f	-um
+=12	=12	=12	=12	=12
+0F	0f	San-	0a	San-
+1D	1d	-gui-	1b-	-gui-
+=13	=13	=13	=13	=13
+0C	0e	-nis-	0cc	-nis-
+1C	1e	-que	1cc	-que
+=14	=14	=14	=14	=14
+0G	0g	pre-	0dd	pre-
+1E	1g	-ti-	1ee	-ti-
+=15	=15	=15	=15	=15
+!!linebreak:original
+1D	2e/	-o-	1ff	-o-
+.	2f/	.	.	.
+1C	0g	.	1ee	.
+1G	.	.	1dd	.
+=16	=16	=16	=16	=16
+0.C	0.e	-si	0.cc	-si
+=17	=17	=17	=17	=17
+0D	0d	Quem	0f	Quem
+1C	1e	in	1g	in
+=18	=18	=18	=18	=18
+0AA	0f	mun-	0a	mun-
+1BB-	1f	-di	1a	-di
+=19	=19	=19	=19	=19
+0C	0e	pre-	0g	pre-
+1AA	1f	.	1a	.
+=20	=20	=20	=20	=20
+0.C	0f	-ti-	0.g	-ti-
+.	1e	.	.	.
+=21	=21	=21	=21	=21
+0.FF	0.f	-um	0.f	-um
+=22	=22	=22	=22	=22
+!!pagebreak:original
+0F	0f	Fruc-	0f	Fruc-
+1E	1e	-tus	1g	-tus
+=23	=23	=23	=23	=23
+0F	0f	ven-	0a	ven-
+1F	1f	-tris	1a	-tris
+=24	=24	=24	=24	=24
+0C	0e	ge-	0g	ge-
+1AA	1f	-ne-	1a	-ne-
+=25	=25	=25	=25	=25
+0.C	0g	-ro-	0b-	-ro-
+.	1f	.	1a	.
+=26	=26	=26	=26	=26
+0.FF	0.f	-si	0.a	-si
+=27	=27	=27	=27	=27
+1C	1e	ge-	1g	ge-
+1F	1f	-ne-	1a	-ne-
+1C	1e	-ro-	1g	-ro-
+=28	=28	=28	=28	=28
+0.FF	0.f	-si	0.f	-si
+=29	=29	=29	=29	=29
+!!linebreak:original
+0F	0a	Rex	0f	Rex
+1E	1g	ef-	1g	ef-
+=30	=30	=30	=30	=30
+1D	0f	-fu-	0a	-fu-
+1C	.	.	.	.
+1BB-	1f	-dit	2b-\	-dit
+.	.	.	2a/	.
+=31	=31	=31	=31	=31
+0C	0f	gen-	0g	gen-
+1C	1e	-ti-	1g	-ti-
+=32	=32	=32	=32	=32
+0.FF;	0.f;	-um.	0.f;	-um.
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!GTL: Hymnbook E
+!!!EFL: 84/117
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Translated from MusicXML and edited by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

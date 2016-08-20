@@ -1,0 +1,99 @@
+!!!COM: Anonymous
+!!!CDT: [?]
+!!!OTL@@LAT: Ave decora
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook E
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	3
+**kern	**kern	**text	**kern	**text
+*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*I"Canto II	*	*I"Canto I	*
+=1-	=1-	=1-	=1-	=1-
+*clefF4	*clefG2	*	*clefG2	*
+*k[b-]	*k[b-]	*	*k[b-]	*
+*M3/2	*M3/2	*	*M3/2	*
+2BB-/	2dd\	A-	2ff\	A-
+2BB-/	2dd\	-ve	2ff\	-ve
+2BB-/	2dd\	de-	2ff\	de-
+=2	=2	=2	=2	=2
+2.BB-/	1cc	-co-	1ee-	-co-
+4AA/	.	.	.	.
+2BB-/	2b-\	-ra	2dd\	-ra
+=3	=3	=3	=3	=3
+2E-\	2g/	mun-	2b-\	mun-
+2E-\	2g/	-di	2b-\	-di
+2E-\	2g/	au-	2b-\	au-
+=4	=4	=4	=4	=4
+2.E-i\	1f	-ro-	1a-	-ro-
+4D\	.	.	.	.
+2E-\	2e-/	-ra	2g/	-ra
+=5	=5	=5	=5	=5
+2C/	2g/	Ma-	2ee-\	Ma-
+2C/	2g/	-ri-	2ee-\	-ri-
+2F\	2a/	-a	2ee-\	-a
+=6	=6	=6	=6	=6
+1F	2a/	cae-	1ee-	cae-
+.	2f/	.	.	.
+2G\	2b-\	-li	2dd\	-li
+=7	=7	=7	=7	=7
+2E-\	2b-\	de-	2dd\	de-
+2F\	2.b-\	-li-	2.cc\	-li-
+2FF/	.	.	.	.
+.	4a/	-ci-	4b-\	-ci-
+=8	=8	=8	=8	=8
+1.BB-	1.b-	-um	1.b-	-um
+!!linebreak:original
+=9||	=9||	=9||	=9||	=9||
+!!linebreak:original
+2BB-/	4dd\	De-	4ff\	De-
+.	4cc\	.	4ee-\	.
+2BB-/	4b-\	-i	4dd\	-i
+.	4a/	.	4cc\	.
+2BB-/	4g/	fu-	4b-\	fu-
+.	4f/	.	4a/	.
+=10	=10	=10	=10	=10
+1C	2.f/	-ro-	1g	-ro-
+.	4e/	.	.	.
+2FF/	2f/	-rem	2f/	-rem
+=11	=11	=11	=11	=11
+2F\	4a/	ver-	4cc\	ver-
+.	4g/	.	4b-\	.
+2A\	4f/	-bis	4a/	-bis
+.	4e/	.	4g/	.
+2F\	4d/	in	4f/	in
+.	4c/	.	4e/	.
+=12	=12	=12	=12	=12
+1G	2.c/	ro-	1d	ro-
+.	4Bni/	.	.	.
+2C/	2c/	-rem	2c/	-rem
+=13	=13	=13	=13	=13
+!!linebreak:original
+2G\	2g/	dum	2g/	dum
+2D\	2f#/	na-	2a/	na-
+2G\	2g/	-to	2b-\	-to
+=14	=14	=14	=14	=14
+2F\	2f/	prae-	2a/	prae-
+2C/	2g/	.	2b-\	.
+2F\	2a/	-bes	2cc\	-bes
+=15	=15	=15	=15	=15
+2G\	2b-\	hos-	2dd\	hos-
+2E-\	2.b-\	-pi-	2.cc\	-pi-
+2F\	.	.	.	.
+.	4a/	-ti-	4b-\	-ti-
+=16	=16	=16	=16	=16
+1.BB-	1.b-	-um.	1.b-	-um.
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!GTL: Hymnbook E
+!!!EFL: 102/117
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Translated from MusicXML and edited by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

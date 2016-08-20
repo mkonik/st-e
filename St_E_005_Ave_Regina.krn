@@ -1,0 +1,224 @@
+!!!COM: Anonymous
+!!!CDT: [?]
+!!!OTL@@LAT: Ave Regina caelorum
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook E
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	3
+**kern	**text	**kern	**text	**kern	**text
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Canto II	*	*I"Canto I	*
+=1-	=1-	=1-	=1-	=1-	=1-
+*clefF4	*	*clefG2	*	*clefG2	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*
+*met(c|)	*	*met(c|)	*	*met(c|)	*
+*M2/2	*	*M2/2	*	*M2/2	*
+1F	A-	1a	A-	1f	A-
+=2	=2	=2	=2	=2	=2
+1C	.	1b-	.	1g	.
+=3	=3	=3	=3	=3	=3
+1FF	-ve	1cc	-ve	1a	-ve
+=4	=4	=4	=4	=4	=4
+[1F	Re-	[1a	Re-	[1cc	Re-
+=5	=5	=5	=5	=5	=5
+2F\]	.	2a/]	.	2cc\]	.
+2F\	-gi-	2a/	-gi-	2cc\	-gi-
+=6	=6	=6	=6	=6	=6
+1F	-na	1a	-na	1cc	-na
+=7	=7	=7	=7	=7	=7
+1BB-	cae-	1b-	cae-	1dd	cae-
+=8	=8	=8	=8	=8	=8
+!!linebreak:original
+[1E-	-lo-	1b-	-lo-	[1ee-	-lo-
+=9	=9	=9	=9	=9	=9
+1E-]	.	1a	.	1ee-]	.
+=10	=10	=10	=10	=10	=10
+1BB-	-rum	1b-	-rum	1dd	-rum
+=11	=11	=11	=11	=11	=11
+[1F	A-	[1a	A-	[1cc	A-
+=12	=12	=12	=12	=12	=12
+2F\]	.	2a/]	.	2cc\]	.
+2F\	-ve	2a/	-ve	2cc\	-ve
+=13	=13	=13	=13	=13	=13
+[1BB-	Do-	[1dd	Do-	[1b-	Do-
+=14	=14	=14	=14	=14	=14
+2BB-/]	.	2dd\]	.	2b-\]	.
+2C/	-mi-	2cc\	-mi-	2g/	-mi-
+=15	=15	=15	=15	=15	=15
+!!linebreak:original
+1F	-na	1cc	-na	1a	-na
+=16	=16	=16	=16	=16	=16
+[1BB-	An-	1dd	An-	[1b-	An-
+=17	=17	=17	=17	=17	=17
+2BB-/]	.	1a	-ge-	2b-\]	.
+2BB-/	-ge-	.	.	2b-\	-ge-
+=18	=18	=18	=18	=18	=18
+1C	-lo-	1cc	-lo-	1g	-lo-
+=19	=19	=19	=19	=19	=19
+1FF	-rum	1cc	-rum	1a	-rum
+=20	=20	=20	=20	=20	=20
+[1F	Sal-	[1cc	Sal-	[1a	Sal-
+=21	=21	=21	=21	=21	=21
+2F\]	.	2cc\]	.	2a/]	.
+2C/	-ve	2g/	-ve	2cc\	-ve
+=22	=22	=22	=22	=22	=22
+!!pagebreak:original
+[1F	ra-	[1a	ra-	[1cc	ra-
+=23	=23	=23	=23	=23	=23
+2F\]	.	2a/]	.	2cc\]	.
+2F\	-dix	2a/	-dix	2cc\	-dix
+=24	=24	=24	=24	=24	=24
+1G	sal-	1dd	sal-	1b-	sal-
+=25	=25	=25	=25	=25	=25
+1F	-ve	1a	-ve	1cc	-ve
+=26	=26	=26	=26	=26	=26
+[1BB-	por-	[1b-	por-	[1dd	por-
+=27	=27	=27	=27	=27	=27
+1BB-]	.	1b-]	.	1dd]	.
+=28	=28	=28	=28	=28	=28
+1FF	-ta	1a	-ta	1cc	-ta
+=29	=29	=29	=29	=29	=29
+!!linebreak:original
+[1F	Ex	[1cc	Ex	[1a	Ex
+=30	=30	=30	=30	=30	=30
+2F\]	.	2cc\]	.	2a/]	.
+2C/	qua	2cc\	qua	2g/	qua
+=31	=31	=31	=31	=31	=31
+2BB-/	mun-	2dd\	mun-	2b-\	mun-
+2FF/	-do	2a/	-do	2cc\	-do
+=32	=32	=32	=32	=32	=32
+[1BB-	lux	1g	lux	[1b-	lux
+=33	=33	=33	=33	=33	=33
+2BB-/]	.	1f	est	2b-\]	.
+2F\	est	.	.	2a/	est
+=34	=34	=34	=34	=34	=34
+[1C	or-	1f	or-	[1g	or-
+=35	=35	=35	=35	=35	=35
+1C]	.	1e	.	1g]	.
+=36	=36	=36	=36	=36	=36
+!!linebreak:original
+1F	-ta	1f	-ta	1a	-ta
+=37	=37	=37	=37	=37	=37
+[1F	Gau-	[1a	Gau-	[1cc	Gau-
+=38	=38	=38	=38	=38	=38
+2F\]	.	2a/]	.	2cc\]	.
+2F\	-de	2a/	-de	2cc\	-de
+=39	=39	=39	=39	=39	=39
+1F	Vir-	1a	Vir-	1cc	Vir-
+=40	=40	=40	=40	=40	=40
+1C	-go	1g	-go	1cc	-go
+=41	=41	=41	=41	=41	=41
+[1GG	glo-	[1g	glo-	[1b-	glo-
+=42	=42	=42	=42	=42	=42
+2GG/]	.	2g/]	.	2b-\]	.
+2GG/	-ri-	2g/	-ri-	2b-\	-ri-
+=43	=43	=43	=43	=43	=43
+!!pagebreak:original
+1GG	-o-	1g	-o-	1b-	-o-
+=44	=44	=44	=44	=44	=44
+1D	-sa	1f#	-sa	1a	-sa
+=45	=45	=45	=45	=45	=45
+[1BB-	Su-	1b-	Su-	[1dd	Su-
+=46	=46	=46	=46	=46	=46
+2BB-/]	.	4b-\	.	2dd\]	.
+.	.	4a/	.	.	.
+2C/	-per	2g/	-per	2cc\	-per
+=47	=47	=47	=47	=47	=47
+2F\	o-	2cc\	o-	2a/	o-
+2FF/	-mnes	2a/	-mnes	2cc\	-mnes
+=48	=48	=48	=48	=48	=48
+[1BB-	spe-	[1dd	spe-	[1b-	spe-
+=49	=49	=49	=49	=49	=49
+2BB-/]	.	2dd\]	.	2b-\]	.
+2FF/	-ci-	2cc\	-ci-	2a/	-ci-
+=50	=50	=50	=50	=50	=50
+!!linebreak:original
+1C	-o-	1g	-o-	1cc	-o-
+=51	=51	=51	=51	=51	=51
+1FF	-sa	1a	-sa	1cc	-sa
+=52	=52	=52	=52	=52	=52
+[1F	Va-	[1cc	Va-	[1a	Va-
+=53	=53	=53	=53	=53	=53
+2F\]	.	2cc\]	.	2a/]	.
+2C/	-le	2cc\	-le	2g/	-le
+=54	=54	=54	=54	=54	=54
+[1F	va-	1cc	va-	1a	va-
+=55	=55	=55	=55	=55	=55
+2F\]	.	1cc	-le	1a	-le
+2F\	-le	.	.	.	.
+=56	=56	=56	=56	=56	=56
+1F	val-	1a	val-	1cc	val-
+=57	=57	=57	=57	=57	=57
+!!linebreak:original
+2F\	-de	2a/	-de	2cc\	-de
+2D\	de-	2b-\	de-	2dd\	de-
+=58	=58	=58	=58	=58	=58
+[1C	-co-	1cc	-co-	[1ee-	-co-
+=59	=59	=59	=59	=59	=59
+1C]	.	1a	.	1ee-]	.
+=60	=60	=60	=60	=60	=60
+1BB-	-ra	1b-	-ra	1dd	-ra
+=61	=61	=61	=61	=61	=61
+1FF	Et	1a	Et	1cc	Et
+=62	=62	=62	=62	=62	=62
+2FF/	pro	2a/	pro	2cc\	pro
+2FF/	no-	2a/	no-	2cc\	no-
+=63	=63	=63	=63	=63	=63
+1C	-bis	1g	-bis	1cc	-bis
+=64	=64	=64	=64	=64	=64
+!!pagebreak:original
+1GG	et	1dd	et	1b-	et
+=65	=65	=65	=65	=65	=65
+2GG/	pro	2dd\	pro	2b-\	pro
+2GG/	no-	2b-\	no-	2b-\	no-
+=66	=66	=66	=66	=66	=66
+1D	-bis	1a	-bis	1dd	-bis
+=67	=67	=67	=67	=67	=67
+1BB-	et	1b-	et	1dd	et
+=68	=68	=68	=68	=68	=68
+2BB-/	pro	2b-\	pro	2dd\	pro
+2BB-/	no-	2a/	no-	2cc\	no-
+=69	=69	=69	=69	=69	=69
+1F	-bis	1a	-bis	1cc	-bis
+=70	=70	=70	=70	=70	=70
+1FF	Chri-	1a	Chri-	1cc	Chri-
+=71	=71	=71	=71	=71	=71
+!!linebreak:original
+2GG/	-stum	2g/	-stum	2b-\	-stum
+4AA/	ex-	2f/	ex-	2a/	ex-
+4BB-/	.	.	.	.	.
+=72	=72	=72	=72	=72	=72
+1C	-o-	2f/	-o-	1g	-o-
+.	.	2e/	.	.	.
+=73	=73	=73	=73	=73	=73
+1FF	-ra	1f	-ra	1a	-ra
+=74	=74	=74	=74	=74	=74
+1F	Chri-	1a	Chri-	1cc	Chri-
+=75	=75	=75	=75	=75	=75
+2F\	-stum	2a/	-stum	2cc\	-stum
+2F\	ex-	2a/	ex-	2cc\	ex-
+=76	=76	=76	=76	=76	=76
+2.BB-/	-o-	[1b-	-o-	[1dd	-o-
+4C/	.	.	.	.	.
+=77	=77	=77	=77	=77	=77
+2D\	.	2b-\]	.	2dd\]	.
+2E\	.	4a/	.	4cc\	.
+.	.	4g/	.	4b-\	.
+=78	=78	=78	=78	=78	=78
+!!linebreak:original
+1F;	-ra.	1a;	-ra.	1cc;	-ra.
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!GTL: Hymnbook E
+!!!EFL: 5/117
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Translated from MusicXML and edited by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

@@ -1,0 +1,94 @@
+!!!COM: Anonymous
+!!!CDT: [?]
+!!!OTL@@POL: O Matko ukochana
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook E
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	3
+**kern	**kern	**text	**kern	**text
+*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*I"Canto II	*	*I"Canto I	*
+=1-	=1-	=1-	=1-	=1-
+*clefF4	*clefG2	*	*clefG2	*
+*k[]	*k[]	*	*k[]	*
+*met(c|)	*met(c|)	*	*met(c|)	*
+*M2/2	*M2/2	*	*M2/2	*
+1D	1d	O	1d	O
+=2	=2	=2	=2	=2
+1D	1d	Ma-	1a	Ma-
+=3	=3	=3	=3	=3
+2.AA/	2.c#/	-tko	1a	-tko
+4BB/	4d/	.	.	.
+=4	=4	=4	=4	=4
+2C#/	2e/	u-	2g/	u-
+2D\	[2d/	-ko-	2f/	-ko-
+=5	=5	=5	=5	=5
+1AA	2d/]	.	1e	-cha-
+.	2c#/	-cha-	.	.
+=6	=6	=6	=6	=6
+1D	1d	-na	1d	-na
+=7	=7	=7	=7	=7
+2D\	2d/	Dzie-	1a	Dzie-
+[2C/	[2e/	-wi-	.	.
+=8	=8	=8	=8	=8
+!!linebreak:original
+2C/]	2e/]	.	1cc	-wi-
+2F\	2f/	.	.	.
+=9	=9	=9	=9	=9
+2D\	2d/	-co	2b\	-co
+2F\	[2d/	wy-	[2a/	wy-
+=10	=10	=10	=10	=10
+1E	2d/]	.	2a/]	.
+.	2e/	-bra-	2g#/	-bra-
+=11	=11	=11	=11	=11
+2AA/	1e	-na	1a	-na
+[2D\	.	.	.	.
+=12	=12	=12	=12	=12
+2D\]	1d	Kr&oacute;-	1f	Kr&oacute;-
+2A\	.	.	.	.
+=13	=13	=13	=13	=13
+1G	2c/	-le-	2e/	-le-
+.	[2e/	-wno	[2g/	-wno
+=14	=14	=14	=14	=14
+1D	2e/]	.	2g/]	.
+.	[2d/	nie-	2f/	nie-
+=15	=15	=15	=15	=15
+!!linebreak:original
+2A\	2d/]	.	1e	-bie-
+2AA/	2c#/	-bie-	.	.
+=16	=16	=16	=16	=16
+1D	1d	-ska	1d	-ska
+=17	=17	=17	=17	=17
+2D\	2f/	Ma-	2dd\	Ma-
+[2D\	[2f/	-ry-	[2dd\	-ry-
+=18	=18	=18	=18	=18
+2D\]	2f/]	.	2dd\]	.
+2D\	2f/	-ja	2a/	-ja
+=19	=19	=19	=19	=19
+1F	1f	m&oacute;dl	1a	m&oacute;dl
+=20	=20	=20	=20	=20
+2F\	2f/	się	2a/	się
+[2C/	[2e/	dziś	[2g/	dziś
+=21	=21	=21	=21	=21
+2C/]	2e/]	.	2g/]	.
+2D\	[2d/	za	2f/	za
+=22	=22	=22	=22	=22
+1AA	2d/]	.	1e	na-
+.	2c#/	na-	.	.
+=23	=23	=23	=23	=23
+1D	1d	-mi.	1d	-mi.
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!GTL: Hymnbook E
+!!!EFL: 16/117
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Translated from MusicXML and edited by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

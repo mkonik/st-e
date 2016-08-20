@@ -1,0 +1,93 @@
+!!!COM: Anonymous
+!!!CDT: [?]
+!!!OTL@@LAT: O quam decora
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook E
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	3
+**kern	**kern	**text	**kern	**text
+*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*I"Canto II	*	*I"Canto I	*
+=1-	=1-	=1-	=1-	=1-
+*clefF4	*clefG2	*	*clefG2	*
+*k[]	*k[]	*	*k[]	*
+*M3/2	*M3/2	*	*M3/2	*
+4AA/	2a/	O	2cc\	O
+4BB/	.	.	.	.
+2C/	2a/	quam	2cc\	quam
+2D\	2a/	de-	2cc\	de-
+=2	=2	=2	=2	=2
+1E	1g#	-co-	1b	-co-
+2AA/	2a/	-ra	2a/	-ra
+=3	=3	=3	=3	=3
+4C/	2cc\	plus-	2ee\	plus-
+4D\	.	.	.	.
+2E\	2cc\	-quam	2ee\	-quam
+2F\	2cc\	au-	2ee\	au-
+=4	=4	=4	=4	=4
+1G	1b	-ro-	1dd	-ro-
+2C/	2cc\	-ra	2cc\	-ra
+=5	=5	=5	=5	=5
+4E\	2ee\	Re-	2gg\	Re-
+4F#\	.	.	.	.
+2G\	2ee\	-gi-	2gg\	-gi-
+2A\	2ee\	-na	2gg\	-na
+=6	=6	=6	=6	=6
+1B	1dd#	cae-	1ff#i	cae-
+2E\	2b\	-li	2ee\	-li
+=7	=7	=7	=7	=7
+2AA/	2a/	ex-	2ee\	ex-
+2.BB/	2.f#/	-o-	2.dd#\	-o-
+4BB/	4f#/	-re-	4dd#\	-re-
+=8	=8	=8	=8	=8
+1.E	1.e	-ris	1.ee	-ris
+=9||	=9||	=9||	=9||	=9||
+!!linebreak:original
+2C/	4cc\	Tu	4ee\	Tu
+.	4dd\	.	4ff\	.
+2C/	2ee\	sol	2gg\	sol
+2C/	2cc\	tu	2ee\	tu
+=10	=10	=10	=10	=10
+1G	1b	lu-	1dd	lu-
+2C/	2cc\	-na	2ee\	-na
+=11	=11	=11	=11	=11
+2AA/	4a/	lux	4cc\	lux
+.	4b\	.	4dd\	.
+2AA/	2cc\	no-	2ee\	no-
+2AA/	2a/	-bis	2cc\	-bis
+=12	=12	=12	=12	=12
+1E	1g#	u-	1b	u-
+2AA/	2a/	-na	2a/	-na
+=13	=13	=13	=13	=13
+!!linebreak:original
+2E\	2g#/	Ma-	2b\	Ma-
+2E\	2a/	-ri-	2cc\	-ri-
+2D\	2b\	-a	2dd\	-a
+=14	=14	=14	=14	=14
+1C	2.cc\	nun-	2.ee\	nun-
+.	4b\	.	4dd\	.
+2F\	4a/	-quam	4cc\	-quam
+.	4g#/	.	4b\	.
+=15	=15	=15	=15	=15
+2D\	4a/	ex-	4cc\	ex-
+.	4b\	.	4dd\	.
+2E\	2.a/	-o-	2.cc\	-o-
+2EE/	.	.	.	.
+.	4g#/	-re-	4b\	-re-
+=16	=16	=16	=16	=16
+1.AA	1.a	-ris.	1.a	-ris.
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!GTL: Hymnbook E
+!!!EFL: 103/117
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Translated from MusicXML and edited by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

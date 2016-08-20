@@ -1,0 +1,75 @@
+!!!COM: Anonymous
+!!!CDT: [?]
+!!!OTL@@LAT: Magne Deus amor meus
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook E
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	3
+**kern	**kern	**text	**kern	**text
+*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*I"Canto II	*	*I"Canto I	*
+=1-	=1-	=1-	=1-	=1-
+*clefF4	*clefG2	*	*clefG2	*
+*k[b-]	*k[b-]	*	*k[b-]	*
+*met(c|)	*met(c|)	*	*met(c|)	*
+*M2/2	*M2/2	*	*M2/2	*
+8C\L	8cc\	Mag-	8cc\	Mag-
+8C\	8cc\	-ne	8ee-\	-ne
+8G\	8bn\	De-	8dd\	De-
+8G\J	8g/	-us	8bn\	-us
+8A-\L	8cc\	a-	8cc\	a-
+8F\	8a-i/	-mor	8dd\	-mor
+8G\	8g/	me-	8b\	me-
+8G\J	8g/	-us	8g/	-us
+=2	=2	=2	=2	=2
+4A-\	4a-/	a-	4cc\	a-
+8.E-\L	8.g/	-mo	8.b-\	-mo
+16D\Jk	16f/	te	16a-/	te
+4.E-\	4.e-/	qui-	4.g/	qui-
+8BB-/	8g/	-a	8b-\	-a
+=3	=3	=3	=3	=3
+8E-i\L	8e-/	tu	8g/	tu
+8A-\	8f/	a-	8a-/	a-
+8.B-\	8.e-/L	-mas	8.f/L	-mas
+16BB-\Jk	16d/Jk	.	16e-/Jk	.
+2E-\	2e-/	me	2e-/	me
+!!linebreak:original
+=4||	=4||	=4||	=4||	=4||
+!!linebreak:original
+8E-/L	8.b-\	Qui-	8.g/	Qui-
+8D/	.	.	.	.
+.	16dd\	-a	16b-\	-a
+8F/	8.cc\	es	8.b-\	es
+8FF/J	.	.	.	.
+.	16b-\	qui	16a/	qui
+2BB-/	2b-\	es	2b-\	es
+=5	=5	=5	=5	=5
+8A-\L	8a-/	Qui-	8.cc\	Qui-
+8G\	8b-\	-a	.	.
+.	.	.	16ee-\	-a
+8B-\	8.f/	quod	8.ee-\	quod
+8BB-\J	.	.	.	.
+.	16e-i/	est	16dd\	est
+2E-\	2e-/	es	2ee-\	es
+=6	=6	=6	=6	=6
+8F/L	8f/	qui-	8a-i/	qui-
+8C/	8e-i/	-a	8cc\	-a
+8.G/	8d/	De-	8.cc\	De-
+.	16d/LL	-us	.	.
+16GG/Jk	16e-/JJ	.	16bn\	-us
+2C/	2c/	es.	2cc\	es.
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!GTL: Hymnbook E
+!!!EFL: 78/117
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Translated from MusicXML and edited by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

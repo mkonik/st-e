@@ -1,0 +1,72 @@
+!!!COM: Anonymous
+!!!CDT: [?]
+!!!OTL@@POL: Ufam w Bogu
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook E
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	3
+**kern	**kern	**text	**kern	**text
+*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*I"Canto II	*	*I"Canto I	*
+=1-	=1-	=1-	=1-	=1-
+*clefF4	*clefG2	*	*clefG2	*
+*k[]	*k[]	*	*k[]	*
+*met(c|)	*met(c|)	*	*met(c|)	*
+*M2/2	*M2/2	*	*M2/2	*
+4AA/	4a/	U-	4a/	U-
+4A\	4a/	-fam	4cc\	-fam
+4.E\	4.g#/	w~Bo-	4.b\	w~Bo-
+8F\	8a/	-gu	8a/	-gu
+=2	=2	=2	=2	=2
+8E\L	8b\	w~nie-	8g#/	w~nie-
+8E\J	8a/	-szczę-	8f#/	-szczę-
+4E\	4b\	-sciu	4g#/	-sciu
+2E\	2g#/	mym	2e/	mym
+=3	=3	=3	=3	=3
+4C/	4cc\	że	4ee\	że
+4G\	4b\	mnie	4dd\	mnie
+4A\	4.a/	on	4.cc\	on
+4E\	.	.	.	.
+.	8g#/	po-	8b\	po-
+=4	=4	=4	=4	=4
+2A\	2a/	-cie-	2cc\	-cie-
+2E\	2g#/	-szy	2b\	-szy
+!!linebreak:original
+=5||	=5||	=5||	=5||	=5||
+!!linebreak:original
+4.AA/	4e/	I	4a/	I
+.	4a/	w~tak	4cc\	w~tak
+8A\	.	.	.	.
+4.E\	4.g#/	wiel-	4.b\	wiel-
+8D#\	8a/	-kim	8a/	-kim
+=6	=6	=6	=6	=6
+8E\L	8b\	ża-	8g#/	ża-
+8E\J	8a/	-lu	8f#/	-lu
+4E\	4b\	mo-	4g#/	mo-
+2E\	2g#/	-im	2e/	-im
+=7	=7	=7	=7	=7
+4D\	4dd\	łas-	4f#/	łas-
+4BB/	4b\	-ka-	4g#/	-ka-
+4AA/	4cc\	-wie	8a/L	-wie
+.	.	.	8b/J	.
+4D\	[4a/	roz-	8cc\L	roz-
+.	.	.	8b\J	.
+=8	=8	=8	=8	=8
+4E\	4a/]	.	2b\	-śmie-
+4EE/	4g#/	-śmie-	.	.
+2AA/	2a/	-szy.	2a/	-szy.
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!GTL: Hymnbook E
+!!!EFL: 82/117
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Translated from MusicXML and edited by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

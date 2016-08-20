@@ -1,0 +1,92 @@
+!!!COM: Anonymous
+!!!CDT: [?]
+!!!OTL@@LAT: Omni die dic Mariae
+!!!OTL@POL: Duszo moja rzecz to twoja
+!!!TXO: Polish/Latin
+!!!ODT: 
+!!!GTL: Hymnbook E
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	3
+**kern	**kern	**text	**kern	**text
+*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*I"Canto II	*	*I"Canto I	*
+=1-	=1-	=1-	=1-	=1-
+*clefF4	*clefG2	*	*clefG2	*
+*k[]	*k[]	*	*k[]	*
+*met(c|)	*met(c|)	*	*met(c|)	*
+*M2/2	*M2/2	*	*M2/2	*
+2c\	2g/	Om-	2cc\	Om-
+2G\	2b\	-ni	2dd\	-ni
+=2	=2	=2	=2	=2
+1C	1cc	di-	1ee	di-
+=3	=3	=3	=3	=3
+1F	1cc	-e	1ff	-e
+=4	=4	=4	=4	=4
+2c\	2g/	dic	2ee\	dic
+2B\	2g/	Ma-	2dd\	Ma-
+=5	=5	=5	=5	=5
+1c	1g	-ri-	1cc	-ri-
+=6	=6	=6	=6	=6
+1G;	1g;	-ae	1b;	-ae
+=7	=7	=7	=7	=7
+!!linebreak:original
+2c\	2g/	me-	2cc\	me-
+2G\	2b\	-a	2dd\	-a
+=8	=8	=8	=8	=8
+1C	1cc	lau-	1ee	lau-
+=9	=9	=9	=9	=9
+2F\	2cc\	-des	2ff\	-des
+[2G\	[2b\	a-	[2dd\	a-
+=10	=10	=10	=10	=10
+4G\]	4b\]	.	4dd\]	.
+4A\	4a/	.	4cc\	.
+2G\	2b\	-ni-	2dd\	-ni-
+=11	=11	=11	=11	=11
+1C;	1cc;	-ma	1ee;	-ma
+!!linebreak:original
+=12||	=12||	=12||	=12||	=12||
+!!linebreak:original
+2G\	2g/	E-	2b\	E-
+2D\	2f#/	-ius	2a/	-ius
+=13	=13	=13	=13	=13
+1G	1g	fes-	1b	fes-
+=14	=14	=14	=14	=14
+2E\	2g/	-ta	2b\	-ta
+[2C/	[2e/	e-	[2cc\	e-
+=15	=15	=15	=15	=15
+2C/]	2e/]	.	2cc\]	.
+2G\	[2g/	-ius	2b\	-ius
+=16	=16	=16	=16	=16
+1D	2g/]	.	1a	ges-
+.	2f#/	ges-	.	.
+=17	=17	=17	=17	=17
+1GG;	1g;	-ta	1g;	-ta
+=18	=18	=18	=18	=18
+!!pagebreak:original
+2c\	2g/	co-	2cc\	co-
+2G\	2b\	-le	2dd\	-le
+=19	=19	=19	=19	=19
+1C	1cc	de-	1ee	de-
+=20	=20	=20	=20	=20
+2F\	2cc\	-vot-	2ff\	-vot-
+[2G\	[2b\	-tis-	[2dd\	-tis-
+=21	=21	=21	=21	=21
+4G\]	4b\]	.	4dd\]	.
+4A\	4a/	.	4cc\	.
+2G\	2b\	-si-	2dd\	-si-
+=22	=22	=22	=22	=22
+1C	1cc	-ma.	1ee	-ma.
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!GTL: Hymnbook E
+!!!EFL: 97/117
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Translated from MusicXML and edited by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

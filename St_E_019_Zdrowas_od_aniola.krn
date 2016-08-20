@@ -1,0 +1,105 @@
+!!!COM: Anonymous
+!!!CDT: [?]
+!!!OTL@@POL: Zdrowaś od anioła
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook E
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	3
+**kern	**text	**kern	**text	**kern	**text
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Canto II	*	*I"Canto I	*
+=1-	=1-	=1-	=1-	=1-	=1-
+*clefF4	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*
+*met(c|)	*	*met(c|)	*	*met(c|)	*
+*M2/2	*	*M2/2	*	*M2/2	*
+1D	Zdro-	1d	Zdro-	1d	Zdro-
+=2	=2	=2	=2	=2	=2
+1D	-waś	1d	-waś	1d	-waś
+=3	=3	=3	=3	=3	=3
+1C	od	1e	od	1g	od
+=4	=4	=4	=4	=4	=4
+[1F	A-	[1f	A-	[1a	A-
+=5	=5	=5	=5	=5	=5
+2F\]	.	2f/]	.	2a/]	.
+2C/	.	2e/	.	2g/	.
+=6	=6	=6	=6	=6	=6
+1D	-nio-	1d	-nio-	1f	-nio-
+=7	=7	=7	=7	=7	=7
+[1AA	-ła	[1c#	-ła	[1e	-ła
+=8	=8	=8	=8	=8	=8
+1AA]	.	1c#]	.	1e]	.
+=9	=9	=9	=9	=9	=9
+!!linebreak:original
+1C	Po-	1e	Po-	1g	Po-
+=10	=10	=10	=10	=10	=10
+1C	-zdro-	1e	-zdro-	1g	-zdro-
+=11	=11	=11	=11	=11	=11
+[1C	-wie-	2c/	-wie-	2e/	-wie-
+.	.	2d/	.	2f/	.
+=12	=12	=12	=12	=12	=12
+1C_	.	2e/	.	2g/	.
+.	.	2f/	.	2a/	.
+=13	=13	=13	=13	=13	=13
+1C]	.	1e	.	1g	.
+=14	=14	=14	=14	=14	=14
+1D	-nieś	[1d	-nieś	1f	-nieś
+=15	=15	=15	=15	=15	=15
+[1AA	mia-	1d]	.	[1e	mia-
+=16	=16	=16	=16	=16	=16
+1AA]	.	1c#	mia-	1e]	.
+=17	=17	=17	=17	=17	=17
+[1D	-ła	[1d	-ła	[1d	-ła
+=18	=18	=18	=18	=18	=18
+1D]	.	1d]	.	1d]	.
+=19	=19	=19	=19	=19	=19
+!!linebreak:original
+1F	Je-	1f	Je-	1a	Je-
+=20	=20	=20	=20	=20	=20
+1C	-zu-	1e	-zu-	1g	-zu-
+=21	=21	=21	=21	=21	=21
+1F	-saś	1f	-saś	1a	-saś
+=22	=22	=22	=22	=22	=22
+1D	po-	[1a	po-	1cc	po-
+=23	=23	=23	=23	=23	=23
+1F	.	1a]	.	[1b	-czę-
+=24	=24	=24	=24	=24	=24
+1E	-czę-	1g#i	-czę-	1b]	.
+=25	=25	=25	=25	=25	=25
+[1AA	-ła	[1a	-ła	[1a	-ła
+=26	=26	=26	=26	=26	=26
+1AA]	.	1a]	.	1a]	.
+=27	=27	=27	=27	=27	=27
+!!linebreak:original
+[1C	O	[1e	O	[1g	O
+=28	=28	=28	=28	=28	=28
+1C]	.	1e]	.	1g]	.
+=29	=29	=29	=29	=29	=29
+[1F	Pan-	[1f	Pan-	[1a	Pan-
+=30	=30	=30	=30	=30	=30
+1F]	.	1f]	.	1a]	.
+=31	=31	=31	=31	=31	=31
+1C	-no	1e	-no	1g	-no
+=32	=32	=32	=32	=32	=32
+1D	Ma-	[1d	Ma-	1f	Ma-
+=33	=33	=33	=33	=33	=33
+[1AA	-ry-	1d]	.	[1e	-ry-
+=34	=34	=34	=34	=34	=34
+1AA]	.	1c#	-ry-	1e]	.
+=35	=35	=35	=35	=35	=35
+1D	-ja.	1d	-ja.	1d	-ja.
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!GTL: Hymnbook E
+!!!EFL: 19/117
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Translated from MusicXML and edited by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

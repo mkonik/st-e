@@ -1,0 +1,85 @@
+!!!COM: Anonymous
+!!!CDT: [?]
+!!!OTL@@POL: Panie jako jest przedziwne
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook E
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	3
+**kern	**kern	**text	**kern	**text
+*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*I"Canto II	*	*I"Canto I	*
+=1-	=1-	=1-	=1-	=1-
+*clefF4	*clefG2	*	*clefG2	*
+*k[b-]	*k[b-]	*	*k[b-]	*
+*met(c|)	*met(c|)	*	*met(c|)	*
+*M2/2	*M2/2	*	*M2/2	*
+2r	2r	.	2r	.
+2D\	2f/	Pa-	2a/	Pa-
+=2	=2	=2	=2	=2
+1D	1f	-nie	1a	-nie
+=3	=3	=3	=3	=3
+2.AA/	2.a/	Pa-	2.cc\	Pa-
+4E\	4g/	-nie	4b-\	-nie
+=4	=4	=4	=4	=4
+2D\	2f/	ja-	2a/	ja-
+2E\	2e/	-ko	2g/	-ko
+=5	=5	=5	=5	=5
+1D	1f	jest	1a	jest
+=6	=6	=6	=6	=6
+2AA/	2e/	prze-	2e/	prze-
+[2A\	[2cc\	-dziw-	[2a/	-dziw-
+=7	=7	=7	=7	=7
+2A\]	2cc\]	.	2a/]	.
+2G#\	2bni\	-ne	2bni\	-ne
+=8	=8	=8	=8	=8
+!!linebreak:original
+2A\	2a/	two-	2cc\	two-
+2D\	[2a/	-je	2dd\	-je
+=9	=9	=9	=9	=9
+1E	2a/]	.	1bni	i-
+.	2g#/	i-	.	.
+=10	=10	=10	=10	=10
+1AA	1a	-mię	1a	-mię
+=11	=11	=11	=11	=11
+2r	2r	.	2r	.
+2AA/	2a/	Kt&oacute;-	2a/	Kt&oacute;-
+=12	=12	=12	=12	=12
+2AA/	2a/	-re	2cc\	-re
+2E\	2g/	po	2b-\	po
+=13	=13	=13	=13	=13
+2F\	2f/	wszyt-	2a/	wszyt-
+2C/	2e/	-kim	2g/	-kim
+=14	=14	=14	=14	=14
+1D	1d	świe-	1f	świe-
+=15	=15	=15	=15	=15
+!!linebreak:original
+2AA/	2c#/	-cie	2e/	-cie
+[2D\	[2f/	aż	[2d/	aż
+=16	=16	=16	=16	=16
+2D\]	2f/]	.	2d/]	.
+2C/	2e/	do	2e/	do
+=17	=17	=17	=17	=17
+2BB-/	2d/	gra-	2f/	gra-
+2GG/	[2d/	-nic	2g/	-nic
+=18	=18	=18	=18	=18
+1AA	2d/]	.	1e	sły-
+.	2c#/	sły-	.	.
+=19	=19	=19	=19	=19
+[1D	[1d	-nie.	[1d	-nie.
+=20	=20	=20	=20	=20
+1D]	1d]	.	1d]	.
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!GTL: Hymnbook E
+!!!EFL: 70/117
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Translated from MusicXML and edited by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

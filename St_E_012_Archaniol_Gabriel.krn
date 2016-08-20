@@ -1,0 +1,131 @@
+!!!COM: Anonymous
+!!!CDT: [?]
+!!!OTL@@POL: Archanioł Gabriel
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook E
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	3
+**kern	**kern	**text	**kern	**text
+*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*I"Canto II	*	*I"Canto I	*
+=1-	=1-	=1-	=1-	=1-
+*clefF4	*clefG2	*	*clefG2	*
+*k[b-]	*k[b-]	*	*k[b-]	*
+*met(c|)	*met(c|)	*	*met(c|)	*
+*M2/2	*M2/2	*	*M2/2	*
+2G\	2g/	Ar-	2g/	Ar-
+2G\	2g/	-cha-	2g/	-cha-
+=2	=2	=2	=2	=2
+2G\	2b-\	-nioł	2dd\	-nioł
+2G\	2b-\	Ga-	2dd\	Ga-
+=3	=3	=3	=3	=3
+1B-	1g	-bri-	1dd	-bri-
+=4	=4	=4	=4	=4
+1F	1a	-el	1cc	-el
+=5	=5	=5	=5	=5
+1B-	1g	z~nie-	1dd	z~nie-
+=6	=6	=6	=6	=6
+2F\	2a/	-ba	2cc\	-ba
+[2G\	[2b-\	wy-	[2b-\	wy-
+=7	=7	=7	=7	=7
+2G\]	4b-\]	.	2b-\]	.
+.	4cc\	.	.	.
+2F\	[2dd\	-so-	2a/	-so-
+=8	=8	=8	=8	=8
+!!linebreak:original
+1E-	2dd\]	.	1g	-kie-
+.	2cc#\	-kie-	.	.
+=9	=9	=9	=9	=9
+1D	1dd	-go	1f#	-go
+=10	=10	=10	=10	=10
+2BB-/	2dd\	Po-	2ff\	Po-
+2BB-/	2dd\	-słan	2ff\	-słan
+=11	=11	=11	=11	=11
+2A\	2cc\	był	2ee-\	był
+2B-\	[2b-\	do	2dd\	do
+=12	=12	=12	=12	=12
+1F	2b-\]	.	1cc	Pan-
+.	2a/	Pan-	.	.
+=13	=13	=13	=13	=13
+1BB-	1b-	-ny	1b-	-ny
+=14	=14	=14	=14	=14
+2.B-\	1g	zrzą-	1dd	zrzą-
+4A\	.	.	.	.
+=15	=15	=15	=15	=15
+!!linebreak:original
+2G\	2b-\	-dze-	2b-\	-dze-
+[2F#\	[2a/	-nia	[2cc\	-nia
+=16	=16	=16	=16	=16
+2F#\]	2a/]	.	2cc\]	.
+2G\	[2g/	Bo-	2b-\	Bo-
+=17	=17	=17	=17	=17
+1D	2g/]	.	1a	-że-
+.	2f#/	-że-	.	.
+=18	=18	=18	=18	=18
+1GG	1g	-go	1g	-go
+=19	=19	=19	=19	=19
+2G\	2dd\	tam	2b-\	tam
+2G\	2dd\	w~mie-	2b-\	w~mie-
+=20	=20	=20	=20	=20
+2G\	2dd\	-ście	2b-\	-ście
+2F#\	2dd\	ży-	2a/	ży-
+=21	=21	=21	=21	=21
+1G	1dd	-do-	1b-	-do-
+=22	=22	=22	=22	=22
+!!pagebreak:original
+1D	1dd	-wskim	1a	-wskim
+=23	=23	=23	=23	=23
+1B-	1g	Na-	1dd	Na-
+=24	=24	=24	=24	=24
+2F\	2a/	-za-	2cc\	-za-
+[2G\	[2b-\	-ret	[2b-\	-ret
+=25	=25	=25	=25	=25
+2G\]	4b-\]	.	2b-\]	.
+.	4cc\	.	.	.
+2F\	[2dd\	mie-	2a/	mie-
+=26	=26	=26	=26	=26
+1E-	2dd\]	.	1g	-szka-
+.	2cc#\	-szka-	.	.
+=27	=27	=27	=27	=27
+1D	1dd	-ła	1f#	-ła
+=28	=28	=28	=28	=28
+2BB-/	2dd\	A	2ff\	A
+2BB-/	2dd\	J&oacute;-	2ff\	J&oacute;-
+=29	=29	=29	=29	=29
+!!linebreak:original
+2E-\	2cc\	-ze-	2ee-\	-ze-
+2G\	[2b-\	-fa	2dd\	-fa
+=30	=30	=30	=30	=30
+1F	2b-\]	.	1cc	mę-
+.	2a/	mę-	.	.
+=31	=31	=31	=31	=31
+1BB-	1b-	-ża	1b-	-ża
+=32	=32	=32	=32	=32
+2.B-\	1g	pos-	1dd	pos-
+4A\	.	.	.	.
+=33	=33	=33	=33	=33
+2G\	2b-\	-ślub-	2b-\	-ślub-
+[2F#\	[2a/	-ne-	[2cc\	-ne-
+=34	=34	=34	=34	=34
+2F#\]	2a/]	.	2cc\]	.
+2G\	[2g/	-go	2b-\	-go
+=35	=35	=35	=35	=35
+1D	2g/]	.	1a	mia-
+.	2f#/	mia-	.	.
+=36	=36	=36	=36	=36
+1GG	1g	-ła.	1g	-ła.
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!GTL: Hymnbook E
+!!!EFL: 12/117
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Translated from MusicXML and edited by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

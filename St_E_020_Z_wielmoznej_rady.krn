@@ -1,0 +1,81 @@
+!!!COM: Anonymous
+!!!CDT: [?]
+!!!OTL@@POL: Z wielmożnej rady
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook E
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	3
+**kern	**kern	**text	**kern	**text
+*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*I"Canto II	*	*I"Canto I	*
+=1-	=1-	=1-	=1-	=1-
+*clefF4	*clefG2	*	*clefG2	*
+*k[b-]	*k[b-]	*	*k[b-]	*
+*met(c|)	*met(c|)	*	*met(c|)	*
+*M2/2	*M2/2	*	*M2/2	*
+1F	1f	Z~wiel-	1f	Z~wiel-
+=2	=2	=2	=2	=2
+1F	1f	-mo-	1f	-mo-
+=3	=3	=3	=3	=3
+1F	1a	-żnej	1cc	-żnej
+=4	=4	=4	=4	=4
+1D	1bn	ra-	1dd	ra-
+=5	=5	=5	=5	=5
+1C	1cc	-dy	1ee	-dy
+=6	=6	=6	=6	=6
+[1F	[1cc	Tr&oacute;j-	[1ff	Tr&oacute;j-
+=7	=7	=7	=7	=7
+1F]	1cc]	.	1ff]	.
+=8	=8	=8	=8	=8
+!!linebreak:original
+1A	[1cc	-cy	1ee	-cy
+=9	=9	=9	=9	=9
+[1G	1cc]	.	1ff	Świę-
+=10	=10	=10	=10	=10
+1G]	1bn	Świę-	1dd	.
+=11	=11	=11	=11	=11
+[1C	[1cc	-tej	[1cc	-tej
+=12	=12	=12	=12	=12
+1C]	1cc]	.	1cc]	.
+=13	=13	=13	=13	=13
+1F	1a	ze-	1ff	ze-
+=14	=14	=14	=14	=14
+[1A	[1cc	-słan	[1cc	-słan
+=15	=15	=15	=15	=15
+2A\]	2cc\]	.	2cc\]	.
+2G\	2b-\	naj-	2dd\	naj-
+=16	=16	=16	=16	=16
+!!linebreak:original
+2F\	2a/	-wyż-	2cc\	-wyż-
+2E\	2g/	-szy	2b-\	-szy
+=17	=17	=17	=17	=17
+[1D	[1f	Ar-	[1a	Ar-
+=18	=18	=18	=18	=18
+2D\]	2f/]	.	2a/]	.
+2C/	2e/	-cha-	2g/	-cha-
+=19	=19	=19	=19	=19
+1BB-	1d	-nioł	1b-	-nioł
+=20	=20	=20	=20	=20
+1F	1f	do	1a	do
+=21	=21	=21	=21	=21
+[1BB-	[1f	Pan~ny	1b-	Pan~ny
+=22	=22	=22	=22	=22
+2BB-/]	2f/]	.	1g	Mar-
+2C/	2e/	Mar-	.	.
+=23	=23	=23	=23	=23
+1F	1f	-iej.	1f	-iej.
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!GTL: Hymnbook E
+!!!EFL: 20/117
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Translated from MusicXML and edited by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

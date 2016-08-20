@@ -1,0 +1,78 @@
+!!!COM: Anonymous
+!!!CDT: [?]
+!!!OTL@@POL: Chlebie anielski
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook E
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	3
+**kern	**kern	**text	**kern	**text
+*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*I"Canto II	*	*I"Canto I	*
+=1-	=1-	=1-	=1-	=1-
+*clefF4	*clefG2	*	*clefG2	*
+*k[]	*k[]	*	*k[]	*
+*met(c|)	*met(c|)	*	*met(c|)	*
+*M2/2	*M2/2	*	*M2/2	*
+2G\	2g/	Chle-	2g/	Chle-
+[2C/	[2e/	-bie	[2cc\	-bie
+=2	=2	=2	=2	=2
+2C/]	2e/]	.	2cc\]	.
+2G\	[2g/	A-	2b\	A-
+=3	=3	=3	=3	=3
+1D	2g/]	.	1a	-niel-
+.	2f#/	-niel-	.	.
+=4	=4	=4	=4	=4
+2G\	2g/	-ski	2b\	-ski
+2C/	2e/	to-	2cc\	to-
+=5	=5	=5	=5	=5
+1C	1e	-bie	1cc	-bie
+=6	=6	=6	=6	=6
+2F\	2a/	cześć	2cc\	cześć
+2G\	2g/	da-	2b\	da-
+=7	=7	=7	=7	=7
+1D	2g/	-wa-	1a	-wa-
+.	2f#/	.	.	.
+=8	=8	=8	=8	=8
+1GG	1g	-my	1b	-my
+!!linebreak:original
+=9||	=9||	=9||	=9||	=9||
+!!linebreak:original
+2r	2r	.	2r	.
+2C/	2e/	Przy-	2g/	Przy-
+=10	=10	=10	=10	=10
+2AA/	2e/	-stoj-	2a/	-stoj-
+2GG/	2g/	-ne	2b\	-ne
+=11	=11	=11	=11	=11
+1C	1g	to-	1cc	to-
+=12	=12	=12	=12	=12
+2G\	2g/	-bie	2b\	-bie
+2C/	2g/	try-	2cc\	try-
+=13	=13	=13	=13	=13
+1F	1f	-um-	1a	-um-
+=14	=14	=14	=14	=14
+2C/	2e/	-fy	2g/	-fy
+2F\	2f/	czy-	2a/	czy-
+=15	=15	=15	=15	=15
+[1G	[1d	-ni-	[1g	-ni-
+=16	=16	=16	=16	=16
+2G\]	1d]	.	1g]	.
+2GG/	.	.	.	.
+=17	=17	=17	=17	=17
+[1C	[1e	-my.	[1g	-my.
+=18	=18	=18	=18	=18
+1C]	1e]	.	1g]	.
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!GTL: Hymnbook E
+!!!EFL: 86/117
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Translated from MusicXML and edited by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

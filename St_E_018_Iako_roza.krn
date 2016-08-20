@@ -1,0 +1,87 @@
+!!!COM: Anonymous
+!!!CDT: [?]
+!!!OTL@@POL: Jako róża między kolącym głogiem
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook E
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	3
+**kern	**text	**kern	**text	**kern	**text
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Canto II	*	*I"Canto I	*
+=1-	=1-	=1-	=1-	=1-	=1-
+*clefF4	*	*clefG2	*	*clefG2	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*
+*met(c|)	*	*met(c|)	*	*met(c|)	*
+*M2/2	*	*M2/2	*	*M2/2	*
+1F	Ja-	1f	Ja-	1a	Ja-
+=2	=2	=2	=2	=2	=2
+2F\	-ko	2a/	-ko	2f/	-ko
+2C/	r&oacute;-	2g/	r&oacute;-	2g/	r&oacute;-
+=3	=3	=3	=3	=3	=3
+2FF/	-ża	2.f/	-ża	2a/	-ża
+2F\	mię-	.	.	2f/	mię-
+.	.	4g/	mię-	.	.
+=4	=4	=4	=4	=4	=4
+2F\	-dzy	2a/	-dzy	2cc\	-dzy
+2F\	ko-	2a/	ko-	2cc\	ko-
+=5	=5	=5	=5	=5	=5
+2BB-/	-lą-	2g/	-lą-	4b-\	-lą-
+.	.	.	.	4a/	.
+2D\	-cym	[2f/	-cym	4g/	-cym
+.	.	.	.	4f/	.
+=6	=6	=6	=6	=6	=6
+1C	gło-	2f/]	.	1g	gło-
+.	.	2e/	gło-	.	.
+=7	=7	=7	=7	=7	=7
+1FF	-giem	1f	-giem	1a	-giem
+=8	=8	=8	=8	=8	=8
+!!linebreak:original
+2.C/	Po-	2.e/	Po-	2.g/	Po-
+4C/	-wsta-	4e/	-wsta-	4g/	-wsta-
+=9	=9	=9	=9	=9	=9
+2C/	-ła	2e/	-ła	2g/	-ła
+2C/	bez	2e/	bez	2g/	bez
+=10	=10	=10	=10	=10	=10
+2F\	zma-	2f/	zma-	2a/	zma-
+2BB-/	-zy	2d/	-zy	2f/	-zy
+=11	=11	=11	=11	=11	=11
+1C	śli-	1e	śli-	1g	śli-
+=12	=12	=12	=12	=12	=12
+2D\	-czna	2d/	-czna	2f/	-czna
+4E\	Pa-	[2c/	Pa-	2e/	Pa-
+4F\	.	.	.	.	.
+=13	=13	=13	=13	=13	=13
+2G\	-nien-	2c/]	.	1d	-nien-
+2GG/	.	2Bn/	-nien-	.	.
+=14	=14	=14	=14	=14	=14
+1C	-ka	1c	-ka	1c	-ka
+=15	=15	=15	=15	=15	=15
+!!linebreak:original
+1F	ra-	1c	ra-	1a	ra-
+=16	=16	=16	=16	=16	=16
+4BB-/	-na	4d/	-na	4b-\	-na
+4C/	.	4e/	.	4a/	.
+2D\	ju-	[2f/	ju-	4g/	ju-
+.	.	.	.	4f/	.
+=17	=17	=17	=17	=17	=17
+1C	-trzen-	2f/]	.	1g	-trzen-
+.	.	2e/	-trzen-	.	.
+=18	=18	=18	=18	=18	=18
+[1FF	-ka.	[1f	-ka.	[1f	-ka.
+=19	=19	=19	=19	=19	=19
+1FF]	.	1f]	.	1f]	.
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!GTL: Hymnbook E
+!!!EFL: 18/117
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Translated from MusicXML and edited by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

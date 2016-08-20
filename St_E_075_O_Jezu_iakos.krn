@@ -1,0 +1,135 @@
+!!!COM: Anonymous
+!!!CDT: [?]
+!!!OTL@@POL: O Jezu jakoś ciężko skatowany
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook E
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	4
+**kern	**kern	**text	**kern	**text	**kern	**text
+*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*I"Alto	*	*I"Canto II	*	*I"Canto I	*
+=1-	=1-	=1-	=1-	=1-	=1-	=1-
+*clefF4	*clefG2	*	*clefG2	*	*clefG2	*
+*k[b-]	*k[b-]	*	*k[b-]	*	*k[b-]	*
+*met(c|)	*met(c|)	*	*met(c|)	*	*met(c|)	*
+*M2/2	*M2/2	*	*M2/2	*	*M2/2	*
+1F	1f	O	1a	O	1cc	O
+=2	=2	=2	=2	=2	=2	=2
+2F\	2f/	Je-	2a/	Je-	2cc\	Je-
+2F\	2f/	-zu	2a/	-zu	2cc\	-zu
+=3	=3	=3	=3	=3	=3	=3
+1B-	1f	ja-	1b-	ja-	1dd	ja-
+=4	=4	=4	=4	=4	=4	=4
+2F\	2f/	-koś	2a/	-koś	2cc\	-koś
+[2F\	[2f/	cię-	[2a/	cię-	[2cc\	cię-
+=5	=5	=5	=5	=5	=5	=5
+2F\]	2f/]	.	2a/]	.	2cc\]	.
+2G\	2d/	-żko	2g/	-żko	2b-\	-żko
+=6	=6	=6	=6	=6	=6	=6
+2A\	2c/	ska-	2e/	ska-	2a/	ska-
+2B-\	[2d/	-to-	2d/	-to-	2g/	-to-
+=7	=7	=7	=7	=7	=7	=7
+1A	2d/]	.	1e	-wa-	1a	-wa-
+.	2c#/	-wa-	.	.	.	.
+=8	=8	=8	=8	=8	=8	=8
+1D	1d	-ny	1f#	-ny	1a	-ny
+=9	=9	=9	=9	=9	=9	=9
+!!linebreak:original
+2r	2r	.	2r	.	2r	.
+[2D\	[2f#/	Ja-	[2a/	Ja-	[2dd\	Ja-
+=10	=10	=10	=10	=10	=10	=10
+4D\]	4f#/]	.	4a/]	.	4dd\]	.
+4D\	4f#i/	-koś	4a/	-koś	4dd\	-koś
+2D\	2f#/	ha-	2a/	ha-	2dd\	ha-
+=11	=11	=11	=11	=11	=11	=11
+2G\	2g/	-nie-	2b-\	-nie-	2dd\	-nie-
+2G\	2g/	-bnie	2b-\	-bnie	2dd\	-bnie
+=12	=12	=12	=12	=12	=12	=12
+1C	1e	jest	1g	jest	[1cc	jest
+=13	=13	=13	=13	=13	=13	=13
+1F	1f	za-	1a	za-	2cc\]	.
+.	.	.	.	.	2cc\	za-
+=14	=14	=14	=14	=14	=14	=14
+2C/	2e/	-mor-	2g/	-mor-	2cc\	-mor-
+2D\	[2f/	-do-	2f/	-do-	2b-\	-do-
+=15	=15	=15	=15	=15	=15	=15
+1C	2f/]	-wa-	1g	-wa-	1cc	-wa-
+.	2e/	.	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16
+1FF	1f	-ny	1a	-ny	1cc	-ny
+=17	=17	=17	=17	=17	=17	=17
+!!linebreak:original
+1F	1a	O	1cc	O	1ff	O
+=18	=18	=18	=18	=18	=18	=18
+1c	1g	a-	1cc	a-	1ee	a-
+=19	=19	=19	=19	=19	=19	=19
+2A\	2a/	-niel-	2a/	-niel-	2ff\	-niel-
+[2B-\	[2f/	-skie	[2b-\	-skie	[2dd\	-skie
+=20	=20	=20	=20	=20	=20	=20
+2B-\]	2f/]	.	2b-\]	.	2dd\]	.
+2G\	2g/	ko-	2b-\	ko-	2dd\	ko-
+=21	=21	=21	=21	=21	=21	=21
+1A	1e	-cha-	1a	-cha-	1cc#	-cha-
+=22	=22	=22	=22	=22	=22	=22
+1A	1e	-nie	1a	-nie	1cc#i	-nie
+=23	=23	=23	=23	=23	=23	=23
+!!pagebreak:original
+2r	2r	.	2r	.	2r	.
+2AA/	2e/	Od-	2a/	Od-	2cc#\	Od-
+=24	=24	=24	=24	=24	=24	=24
+2D\	2f/	-mie-	2a/	-mie-	2dd\	-mie-
+2C/	2g/	-ni-	2cc\	-ni-	2ee\	-ni-
+=25	=25	=25	=25	=25	=25	=25
+2.F\	2.a/	-łoć	2.cc\	-łoć	2.ff\	-łoć
+4F\	4a/	się	4cc\	się	4ff\	się
+=26	=26	=26	=26	=26	=26	=26
+2F\	2a/	w͜ ser-	2cc\	w͜ ser-	2ff\	w͜ ser-
+2G\	4g/	-de-	2b-\	-de-	2dd\	-de-
+.	4f/	.	.	.	.	.
+=27	=27	=27	=27	=27	=27	=27
+2A\	2e/	-czne	2a/	-czne	2cc#\	-czne
+2B-\	2d/	wzdy-	2g/	wzdy-	[2dd\	wzdy-
+=28	=28	=28	=28	=28	=28	=28
+1A	1e	-cha-	1a	-cha-	2dd\]	.
+.	.	.	.	.	2cc#i\	-cha-
+=29	=29	=29	=29	=29	=29	=29
+1D	1f#	-nie	1a	-nie	1dd	-nie
+=30	=30	=30	=30	=30	=30	=30
+!!linebreak:original
+2r	2r	.	2r	.	2r	.
+2D\	2d/	od-	2f#/	od-	2a/	od-
+=31	=31	=31	=31	=31	=31	=31
+2G\	2d/	-mie-	2g/	-mie-	2b-\	-mie-
+2F\	2f/	-ni-	2a/	-ni-	2cc\	-ni-
+=32	=32	=32	=32	=32	=32	=32
+2.BB-/	2.f/	-łoć	2.b-\	-łoć	2.dd\	-łoć
+4BB-/	4f/	się	4b-\	się	4dd\	się
+=33	=33	=33	=33	=33	=33	=33
+2BB-/	2f/	w͜ ser-	2b-\	w͜ ser-	2dd\	w͜ ser-
+2F\	2f/	-de-	2a/	-de-	2cc\	-de-
+=34	=34	=34	=34	=34	=34	=34
+2G\	2d/	-czne	2g/	-czne	2b-\	-czne
+2G\	[2d/	wzdy-	2f/	wzdy-	2b-\	wzdy-
+=35	=35	=35	=35	=35	=35	=35
+1A	2d/]	.	1e	-cha-	1a	-cha-
+.	2c#/	-cha-	.	.	.	.
+=36	=36	=36	=36	=36	=36	=36
+[1D	[1d	-nie.	[1f#	-nie.	[1a	-nie.
+=37	=37	=37	=37	=37	=37	=37
+!!linebreak:original
+1D]	1d]	.	1f#]	.	1a]	.
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!GTL: Hymnbook E
+!!!EFL: 75/117
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Translated from MusicXML and edited by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

@@ -1,0 +1,294 @@
+!!!COM: Anonymous
+!!!CDT: [?]
+!!!OTL@@LAT: Asperges me Domine
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook E
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	3
+**kern	**text	**kern	**text	**kern	**text
+*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Canto III	*	*I"Canto II	*	*I"Canto I	*
+=1-	=1-	=1-	=1-	=1-	=1-
+*clefF4	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*
+*met(c|)	*	*met(c|)	*	*met(c|)	*
+*M2/2	*	*M2/2	*	*M2/2	*
+2.A\	Do-	2.a/	Do-	2.cc\	Do-
+4A\	-mi-	4a/	-mi-	4cc\	-mi-
+=2	=2	=2	=2	=2	=2
+2A\	-ne	2a/	-ne	2cc\	-ne
+2D\	hi-	[2a/	hi-	2dd\	hi-
+=3	=3	=3	=3	=3	=3
+1E	-so-	2a/]	.	1b	-so-
+.	.	2g#/	-so-	.	.
+=4	=4	=4	=4	=4	=4
+2AA/	-po	2a/	-po	2a/	-po
+2A\	et	2a/	et	2cc\	et
+=5	=5	=5	=5	=5	=5
+2.D\	mun-	2.a/	mun-	2.dd\	mun-
+4D\	-da-	4a/	-da-	4dd\	-da-
+=6	=6	=6	=6	=6	=6
+2A\	-bor	2a/	-bor	2cc\	-bor
+2A\	et	2a/	et	2cc\	et
+=7	=7	=7	=7	=7	=7
+2.G\	mun-	2.b\	mun-	2.dd\	mun-
+4G\	-da-	4b\	-da-	4dd\	-da-
+=8	=8	=8	=8	=8	=8
+!!linebreak:original
+2C/	-bor	2cc\	-bor	2cc\	-bor
+[2F\	et	[2ff\	et	[2a/	et
+=9	=9	=9	=9	=9	=9
+2F\]	.	2ff\]	.	2a/]	.
+2C#/	mun-	2ee\	mun-	2a/	mun-
+=10	=10	=10	=10	=10	=10
+1D	-da-	1dd	-da-	1a	-da-
+=11	=11	=11	=11	=11	=11
+[1AA	-bor	[1cc#	-bor	[1a	-bor
+=12	=12	=12	=12	=12	=12
+1AA]	.	1cc#]	.	1a]	.
+=13	=13	=13	=13	=13	=13
+1A	La-	1a	La-	1a	La-
+=14	=14	=14	=14	=14	=14
+2E\	-va-	2g/	-va-	2g/	-va-
+2G\	-bis	2g/	-bis	2g/	-bis
+=15	=15	=15	=15	=15	=15
+!!linebreak:original
+2D\	me	2a/	me	2f/	me
+4r	.	4r	.	2cc\	la-
+4F\	la-	4a/	la-	.	.
+=16	=16	=16	=16	=16	=16
+2C/	-va-	2g/	-va-	2cc\	-va-
+2D\	-bis	2f/	-bis	2a/	-bis
+=17	=17	=17	=17	=17	=17
+2AA/	me	2e/	me	2a/	me
+4r	.	4r	.	2ee\	la-
+4c\	la-	4cc\	la-	.	.
+=18	=18	=18	=18	=18	=18
+2G\	-va-	2b\	-va-	2dd\	-va-
+2A\	-bis	2a/	-bis	2cc\	-bis
+=19	=19	=19	=19	=19	=19
+2E\	me	2g#/	me	2b\	me
+2c\	et	[2cc\	et	2ee\	et
+=20	=20	=20	=20	=20	=20
+1G	su-	4cc\]	.	1dd	su-
+.	.	8b/L	.	.	.
+.	.	8a/J	.	.	.
+.	.	2b\	su-	.	.
+=21	=21	=21	=21	=21	=21
+2C/	-per	2cc\	-per	2cc\	-per
+2C/	et	[2cc\	et	2ee\	et
+=22	=22	=22	=22	=22	=22
+!!linebreak:original
+1G	su-	2cc\]	.	1dd	su-
+.	.	2b\	su-	.	.
+=23	=23	=23	=23	=23	=23
+2C/	-per	2cc\	-per	2cc\	-per
+[2C/	ni-	[2cc\	ni-	[2g/	ni-
+=24	=24	=24	=24	=24	=24
+4C/]	.	2cc\]	.	2g/]	.
+4D\	-vem	.	.	.	.
+2E\	de-	[2b\	-vem	2g/	-vem
+=25	=25	=25	=25	=25	=25
+1F	-al-	4b\]	.	2a/	de-
+.	.	4a/	de-	.	.
+.	.	[2a/	-al-	2a/	-al-
+=26	=26	=26	=26	=26	=26
+1E	-ba-	2a/]	.	1b	-ba-
+.	.	2g#/	-ba-	.	.
+=27	=27	=27	=27	=27	=27
+2AA/	-bor	2a/	-bor	2cc\	-bor
+[2AA/	de-	[2cc\	de-	[2a/	de-
+=28	=28	=28	=28	=28	=28
+2AA/]	.	2cc\]	.	2a/]	.
+2GG#/	-al-	2b\	-al-	2b\	-al-
+=29	=29	=29	=29	=29	=29
+!!pagebreak:original
+1AA	-ba-	1a	-ba-	1cc	-ba-
+=30	=30	=30	=30	=30	=30
+[1E	-bor	[1g#	-bor	[1b	-bor
+=31	=31	=31	=31	=31	=31
+1E]	.	1g#]	.	1b]	.
+=32||	=32||	=32||	=32||	=32||	=32||
+1E	Mi-	1g#i	Mi-	1g#i	Mi-
+=33	=33	=33	=33	=33	=33
+2F\	-se-	2f/	-se-	2a/	-se-
+2D\	-re-	2f/	-re-	2b\	-re-
+=34	=34	=34	=34	=34	=34
+1C	-re	1g	-re	2cc\	-re
+.	.	.	.	[2ee\	me-
+=35	=35	=35	=35	=35	=35
+2C/	me-	2cc\	me-	2ee\]	.
+2G\	-i	2b\	-i	2dd\	-i
+=36	=36	=36	=36	=36	=36
+!!linebreak:original
+2A\	De-	2a/	De-	2cc\	De-
+2E\	-us	[2g#/	-us	2b\	-us
+=37	=37	=37	=37	=37	=37
+4r	.	4g#/]	.	2ee\	mi-
+4C/	me-	4cc\	mi-	.	.
+2G\	-i	2b\	-se-	2dd\	-se-
+=38	=38	=38	=38	=38	=38
+2A\	De-	2a/	-re-	2cc\	-re-
+2E\	-us	2g#/	-re	2b\	-re
+=39	=39	=39	=39	=39	=39
+2F#i\	me-	2f#/	me-	2a/	me-
+2D\	-i	[2a/	-i	2dd\	-i
+=40	=40	=40	=40	=40	=40
+1E	De-	2a/]	.	1b	De-
+.	.	2g#/	De-	.	.
+=41	=41	=41	=41	=41	=41
+2AA/	-us	2a/	-us	2a/	-us
+2A\	se-	2cc\	se-	2cc\	se-
+=42	=42	=42	=42	=42	=42
+2G\	-cun-	2b\	-cun-	2dd\	-cun-
+2E\	-dum	2g/	-dum	2ee\	-dum
+=43	=43	=43	=43	=43	=43
+!!linebreak:original
+1F	ma-	1a	ma-	1cc	ma-
+=44	=44	=44	=44	=44	=44
+2C/	-gnam	2g/	-gnam	2cc\	-gnam
+[2C/	mi-	[2cc\	mi-	[2ee\	mi-
+=45	=45	=45	=45	=45	=45
+4C/]	.	4cc\]	.	4ee\]	.
+4C/	-se-	4cc\	-se-	4ee\	-se-
+4C/	-ri-	4cc\	-ri-	4ee\	-ri-
+4C/	-cor-	4cc\	-cor-	4ee\	-cor-
+=46	=46	=46	=46	=46	=46
+2G\	-di-	2b\	-di-	2dd\	-di-
+2A\	-am	2a/	-am	2cc\	-am
+=47	=47	=47	=47	=47	=47
+1E	tu-	1g#	tu-	1b	tu-
+=48	=48	=48	=48	=48	=48
+2A\	-am	2a/	-am	2a/	-am
+[2AA/	mi-	[2e/	mi-	[2a/	mi-
+=49	=49	=49	=49	=49	=49
+!!linebreak:original
+4AA/]	.	4e/]	.	4a/]	.
+4AA/	-se-	4e/	-se-	4a/	-se-
+4AA/	-ri-	4e/	-ri-	4a/	-ri-
+4AA/	-cor-	4e/	-cor-	4a/	-cor-
+=50	=50	=50	=50	=50	=50
+2AA/	-di-	2e/	-di-	2a/	-di-
+2AA/	-am	2e/	-am	2a/	-am
+=51	=51	=51	=51	=51	=51
+1D	tu-	1f	tu-	1a	tu-
+=52	=52	=52	=52	=52	=52
+[1AA	-am	[1e	-am	[1a	-am
+=53	=53	=53	=53	=53	=53
+1AA]	.	1e]	.	1a]	.
+=54||	=54||	=54||	=54||	=54||	=54||
+1A	Glo-	1a	Glo-	1cc	Glo-
+=55	=55	=55	=55	=55	=55
+2A\	-ri-	2a/	-ri-	2cc\	-ri-
+2D\	-a	[2a/	-a	2dd\	-a
+=56	=56	=56	=56	=56	=56
+!!pagebreak:original
+1E	Pa-	2a/]	.	1b	Pa-
+.	.	2g#/	Pa-	.	.
+=57	=57	=57	=57	=57	=57
+2AA/	-tri	2a/	-tri	2a/	-tri
+2A\	et	2a/	et	2cc\	et
+=58	=58	=58	=58	=58	=58
+2.D\	Fi-	2.a/	Fi-	2.dd\	Fi-
+4D\	-li-	4a/	-li-	4dd\	-li-
+=59	=59	=59	=59	=59	=59
+2A\	-o	2a/	-o	2cc\	-o
+2A\	et	2a/	et	2cc\	et
+=60	=60	=60	=60	=60	=60
+2.G\	Spi-	2.b\	Spi-	2.dd\	Spi-
+4G\	-ri-	4cc\	-ri-	4ee\	-ri-
+=61	=61	=61	=61	=61	=61
+2F\	-tu-	2a/	-tu-	2ff\	-tu-
+2C/	-i	[2cc\	-i	2ee\	-i
+=62	=62	=62	=62	=62	=62
+1G	San-	4cc\]	.	1dd	San-
+.	.	8b/L	San-	.	.
+.	.	8a/J	.	.	.
+.	.	2b\	.	.	.
+=63	=63	=63	=63	=63	=63
+[1C	-cto	[1cc	-cto	[1cc	-cto
+=64	=64	=64	=64	=64	=64
+1C]	.	1cc]	.	1cc]	.
+=65	=65	=65	=65	=65	=65
+!!linebreak:original
+[1F	si-	1cc	si-	[1a	si-
+=66	=66	=66	=66	=66	=66
+1F]	.	1a	.	1a]	.
+=67	=67	=67	=67	=67	=67
+1F	-cut	2.a/	-cut	1cc	-cut
+.	.	4b\	.	.	.
+=68	=68	=68	=68	=68	=68
+1C	e-	1cc	e-	1cc	e-
+=69	=69	=69	=69	=69	=69
+2C/	-rat	2cc\	-rat	2cc\	-rat
+[2C/	in	[2cc\	in	[2ee\	in
+=70	=70	=70	=70	=70	=70
+4C/]	.	4cc\]	.	4ee\]	.
+4C/	prin-	4cc\	prin-	4ee\	prin-
+4C/	-ci-	4cc\	-ci-	4ee\	-ci-
+4C/	-pi-	4cc\	-pi-	4ee\	-pi-
+=71	=71	=71	=71	=71	=71
+1G	-o	1b	-o	1dd	-o
+=72	=72	=72	=72	=72	=72
+!!linebreak:original
+2G\	et	2b\	et	2dd\	et
+4A\	nunc	4cc\	nunc	4cc\	nunc
+4D\	et	[4a/	et	4dd\	et
+=73	=73	=73	=73	=73	=73
+2E\	sem-	4a/]	.	2b\	sem-
+.	.	4g#/	sem-	.	.
+2AA/	-per	2a/	-per	2cc#\	-per
+=74	=74	=74	=74	=74	=74
+2.A\	et	2.cc\	et	2.a/	et
+4G\	in	4b\	in	4b\	in
+=75	=75	=75	=75	=75	=75
+2F\	sae-	2a/	sae-	2cc-\	sae-
+2F\	-cu-	2a/	-cu-	2dd\	-cu-
+=76	=76	=76	=76	=76	=76
+1E	-la	1g#	-la	1b	-la
+=77	=77	=77	=77	=77	=77
+*M3/1	*	*M3/1	*	*M3/1	*
+1A	sae-	1cc	sae-	1a	sae-
+2G#\	-cu-	2dd\	-cu-	2b\	-cu-
+2A\	-lo-	2ee\	-lo-	2cc\	-lo-
+2D\	-rum	2b\	-rum	2dd\	-rum
+2E\	a-	2b\	a-	2b\	a-
+=78	=78	=78	=78	=78	=78
+0.AA	-men	0.a	-men	0.cc	-men
+=79	=79	=79	=79	=79	=79
+!!linebreak:original
+1A	sae-	1cc	sae-	1a	sae-
+2G#\	-cu-	2b\	-cu-	2b\	-cu-
+2A\	-lo-	2a/	-lo-	2cc\	-lo-
+2D\	-rum	2a/	-rum	2dd\	-rum
+2E\	a-	2g#/	a-	2b\	a-
+=80	=80	=80	=80	=80	=80
+0.AA	-men	0.a	-men	0.cc#	-men
+=81	=81	=81	=81	=81	=81
+*met(c|)	*	*met(c|)	*	*met(c|)	*
+*M2/2	*	*M2/2	*	*M2/2	*
+[1D	a-	2a/	a-	[1a	a-
+.	.	[2dd\	.	.	.
+=82	=82	=82	=82	=82	=82
+1D]	.	2dd\]	.	1a]	.
+.	.	4cc#\	.	.	.
+.	.	4b\	.	.	.
+=83	=83	=83	=83	=83	=83
+[1AA	-men.	[1cc#	-men.	[1a	-men.
+=84	=84	=84	=84	=84	=84
+1AA]	.	1cc#]	.	1a]	.
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!GTL: Hymnbook E
+!!!EFL: 1/117
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Translated from MusicXML and edited by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

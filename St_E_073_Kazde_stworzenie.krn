@@ -1,0 +1,120 @@
+!!!COM: Anonymous
+!!!CDT: [?]
+!!!OTL@@POL: Każde stworzenie śpiewaj
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook E
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	4
+**kern	**text	**kern	**text	**kern	**text	**kern	**text
+*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Alto	*	*I"Canto II	*	*I"Canto I	*
+=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
+*clefF4	*	*clefG2	*	*clefG2	*	*clefG2	*
+*k[]	*	*k[]	*	*k[]	*	*k[]	*
+*met(c|)	*	*met(c|)	*	*met(c|)	*	*met(c|)	*
+*M2/2	*	*M2/2	*	*M2/2	*	*M2/2	*
+2r	.	2r	.	2r	.	2r	.
+2d\	Ka-	2f/	Ka-	2a/	Ka-	2dd\	Ka-
+=2	=2	=2	=2	=2	=2	=2	=2
+2d\	-żde	2a/	-żde	2dd\	-żde	2ff\	-żde
+[2A\	stwo-	[2a/	stwo-	[2cc#\	stwo-	[2ee\	stwo-
+=3	=3	=3	=3	=3	=3	=3	=3
+4A\]	.	4a/]	.	4cc#\]	.	4ee\]	.
+4A\	-rze-	4a/	-rze-	4cc#i\	-rze-	4ff\	-rze-
+2B-\	-nie	2f/	-nie	2b-\	-nie	2dd\	-nie
+=4	=4	=4	=4	=4	=4	=4	=4
+1G	śpie-	1g	śpie-	1b-i	śpie-	1dd	śpie-
+=5	=5	=5	=5	=5	=5	=5	=5
+2A\	-waj	2e/	-waj	2a/	-waj	2cc#\	-waj
+4r	.	4r	.	4r	.	4r	.
+4AA/	a	4a/	a	4a/	a	4ee\	a
+=6	=6	=6	=6	=6	=6	=6	=6
+2D\	dziś	2a/	dziś	2dd\	dziś	2ff\	dziś
+2F\	za-	[2a/	za-	2a/	za-	2dd\	za-
+=7	=7	=7	=7	=7	=7	=7	=7
+1E	-wo-	2a/]	.	1b	-wo-	1ee	-wo-
+.	.	2g#i/	-wo-	.	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8
+1AA	-łaj	1a	-łaj	1cc#	-łaj	1ee	-łaj
+=9	=9	=9	=9	=9	=9	=9	=9
+2r	.	2r	.	2r	.	2r	.
+2A\	Je-	2e/	Je-	2a/	Je-	2cc#\	Je-
+=10	=10	=10	=10	=10	=10	=10	=10
+1D	-zu	1f	-zu	1a	-zu	1dd	-zu
+=11	=11	=11	=11	=11	=11	=11	=11
+2r	.	2r	.	2r	.	2r	.
+2G\	Je-	2g/	Je-	2b-\	Je-	2dd\	Je-
+=12	=12	=12	=12	=12	=12	=12	=12
+1D	-zu	1f	-zu	1a	-zu	1dd	-zu
+=13	=13	=13	=13	=13	=13	=13	=13
+2r	.	2r	.	2r	.	2r	.
+2D\	Je-	2a/	Je-	2dd\	Je-	2ff\	Je-
+=14	=14	=14	=14	=14	=14	=14	=14
+2F\	-zu	2a/	-zu	2cc\	-zu	2ff\	-zu
+4F\	Pa-	4a/	Pa-	4cc\	Pa-	4ff\	Pa-
+[4C/	-nie	[4g/	-nie	[4cc\	-nie	[4ee\	-nie
+=15	=15	=15	=15	=15	=15	=15	=15
+!!linebreak:original
+4C/]	.	4g/]	.	4cc\]	.	4ee\]	.
+4D\	ła-	4f/	ła-	4a/	ła-	4dd\	ła-
+2AA/	-ska-	2e/	-ska-	2a/	-ska-	2cc#\	-ska-
+=16	=16	=16	=16	=16	=16	=16	=16
+4D\	-wy	4f/	-wy	4a/	-wy	4dd\	-wy
+2C/	Bo-	2g/	Bo-	2cc\	Bo-	2ee\	Bo-
+4D\	-że	4f/	-że	4a/	-że	4dd\	-że
+=17	=17	=17	=17	=17	=17	=17	=17
+1AA	pra-	1e	pra-	1a	pra-	1cc#	pra-
+=18	=18	=18	=18	=18	=18	=18	=18
+1AA	-wy	1e	-wy	1a	-wy	1cc#i	-wy
+=19	=19	=19	=19	=19	=19	=19	=19
+2r	.	2r	.	2r	.	2r	.
+2A\	k͜ To-	2c#/	k͜ To-	2a/	k͜ To-	2ee\	k͜ To-
+=20	=20	=20	=20	=20	=20	=20	=20
+2D\	-bie	2d/	-bie	2a/	-bie	2ff\	-bie
+2C#/	wo-	2e/	wo-	2a/	wo-	2ee\	wo-
+=21	=21	=21	=21	=21	=21	=21	=21
+1D	-ła-	1f	-ła-	1a	-ła-	1dd	-ła-
+=22	=22	=22	=22	=22	=22	=22	=22
+1A	-my	1e	-my	1a	-my	1cc#	-my
+=23	=23	=23	=23	=23	=23	=23	=23
+2r	.	2r	.	2r	.	2r	.
+2c\	zmi-	2g/	zmi-	2cc\	zmi-	2ee\	zmi-
+=24	=24	=24	=24	=24	=24	=24	=24
+2c\	-łuj	2g/	-łuj	2cc\	-łuj	2ee\	-łuj
+4A\	się	4a/	się	4cc\	się	4ff\	się
+[4c\	nad	[4g/	nad	[4cc\	nad	[4ee\	nad
+=25	=25	=25	=25	=25	=25	=25	=25
+4c\]	.	4g/]	.	4cc\]	.	4ee\]	.
+4d\	na-	4f/	na-	4a/	na-	4dd\	na-
+2A\	-mi	2e/	-mi	2a/	-mi	2cc#\	-mi
+=26	=26	=26	=26	=26	=26	=26	=26
+2r	.	2r	.	2r	.	2r	.
+2F\	twe-	2a/	twe-	2a/	twe-	2ff\	twe-
+=27	=27	=27	=27	=27	=27	=27	=27
+2G\	-mi	2.g/	-mi	2b-\	-mi	2dd\	-mi
+2B-\	słu-	.	.	2b-\	słu-	4ee\	słu-
+.	.	4f/	.	.	.	4dd\	.
+=28	=28	=28	=28	=28	=28	=28	=28
+1A	-ga-	4e/	słu-	1a	-ga-	1cc#	-ga-
+.	.	4d/	.	.	.	.	.
+.	.	2e/	-ga-	.	.	.	.
+=29	=29	=29	=29	=29	=29	=29	=29
+!!pagebreak:original
+[1D	-mi.	[1d	-mi.	[1a	-mi.	[1dd	-mi.
+=30	=30	=30	=30	=30	=30	=30	=30
+1D]	.	1d]	.	1a]	.	1dd]	.
+==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!GTL: Hymnbook E
+!!!EFL: 73/117
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Translated from MusicXML and edited by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

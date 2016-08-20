@@ -1,0 +1,88 @@
+!!!COM: Kazimierz Boczkowski
+!!!CDT: [?]
+!!!OTL@@POL: Och drogie perły
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook E
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	3
+**kern	**kern	**text	**text	**kern	**text	**text
+*staff3	*staff2	*staff2	*staff2	*staff1	*staff1	*staff1
+*I"Basso	*I"Canto II	*	*	*I"Canto I	*	*
+=1-	=1-	=1-	=1-	=1-	=1-	=1-
+*clefF4	*clefG2	*	*	*clefG2	*	*
+*k[b-]	*k[b-]	*	*	*k[b-]	*	*
+*met(c|)	*met(c|)	*	*	*met(c|)	*	*
+*M2/2	*M2/2	*	*	*M2/2	*	*
+8r	8r	.	.	8r	.	.
+8G\L	8g/	Och	Pły-	8g/	Och	Pły-
+8.G\	8.b-\	dro-	-ną-	8.dd\	dro-	-ną-
+16F#\Jk	16a/	-gie	-ce	32cc\LLL	-gie	-ce
+.	.	.	.	32dd\JJJ	.	.
+4G\	8.g/L	per-	z͜ o-	8.b-/L	per-	z͜ o-
+.	16f#/Jk	.	.	16a/Jk	.	.
+4GG/	4g/	-ły	-czu	4g/	-ły	-czu
+=2	=2	=2	=2	=2	=2	=2
+8C/L	8cc\	Je-	nie-	8ee-\	Je-	nie-
+8C/	8b-\	-zu-	-mo-	8dd\	-zu-	-mo-
+8D/	16b-/LL	-sa	-wlą-	16dd\LL	-sa	-wlą-
+.	16a/JJ	.	.	16cc\JJ	.	.
+8BB-/J	16b-\LL	mo-	-cych	16dd\LL	mo-	-cych
+.	16cc\JJ	.	.	16ee-\JJ	.	.
+4F\	8.b-/L	-je-	je-	4cc\	-je-	je-
+.	16a/Jk	.	.	.	.	.
+4BB-/	4b-\	-go	-go	4b-\	-go	-go
+=3:|!|:	=3:|!|:	=3:|!|:	=3:|!|:	=3:|!|:	=3:|!|:	=3:|!|:
+8r	8r	.	.	8r	.	.
+8BB-/L	8b-\	Tak	.	8dd\	Tak	.
+8D/	16b-/LL	żeś-	.	16dd\LL	żeś-	.
+.	16a/JJ	.	.	16cc\JJ	.	.
+8BB-/J	16b-\LL	-cie	.	16dd\LL	-cie	.
+.	16cc\JJ	.	.	16ee-i\JJ	.	.
+4B-\	4dd\	sa-	.	4ff\	sa-	.
+4B-\	4dd\	-me	.	4ff\	-me	.
+=4	=4	=4	=4	=4	=4	=4
+8F\L	8a/	za	.	8cc\	za	.
+8D\	8bn\	nie-	.	8dd\	nie-	.
+8C\	16cc\LL	-do-	.	16ee-\LL	-do-	.
+.	16b\JJ	.	.	16dd\JJ	.	.
+8F\J	16cc\LL	-syć	.	16ee-\LL	-syć	.
+.	16dd\JJ	.	.	16ff\JJ	.	.
+8G/L	4b\	by-	.	4dd\	by-	.
+8GG/J	.	.	.	.	.	.
+4C/	4cc\	-ły	.	4cc\	-ły	.
+=5	=5	=5	=5	=5	=5	=5
+!!linebreak:original
+4C/	16cc\LL	że-	.	16ee-\LL	że-	.
+.	16b-\JJ	.	.	16dd\JJ	.	.
+.	16cc\LL	-byś-	.	16ee-\LL	-byś-	.
+.	16dd\JJ	.	.	16ff\JJ	.	.
+8C\L	8.cc\L	-cie	.	8.ee-\L	-cie	.
+16D\L	.	.	.	.	.	.
+16E-\JJ	16b-\Jk	.	.	16dd\Jk	.	.
+4F\	4a/	świa-	.	4cc\	świa-	.
+4D\	4b-\	-ta	.	4dd\	-ta	.
+=6	=6	=6	=6	=6	=6	=6
+8E-\L	8g/	o-	.	8b-\	o-	.
+8D\	16f#/LL	-kup	.	16a/LL	-kup	.
+.	16g/JJ	.	.	16b-/JJ	.	.
+8C\	16a/LL	wy-	.	16cc\LL	wy-	.
+.	16b-/JJ	.	.	16dd\JJ	.	.
+8G\J	16a/LL	-pła-	.	16cc\LL	-pła-	.
+.	16g/JJ	.	.	16b-\JJ	.	.
+4D\	4f#/	-ci-	.	4a/	-ci-	.
+4GG/	4g/	-ły.	.	4g/	-ły.	.
+==:|!	==:|!	==:|!	==:|!	==:|!	==:|!	==:|!
+*-	*-	*-	*-	*-	*-	*-
+!!!GTL: Hymnbook E
+!!!EFL: 35/117
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Translated from MusicXML and edited by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

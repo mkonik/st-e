@@ -1,0 +1,81 @@
+!!!COM: Anonymous
+!!!CDT: [?]
+!!!OTL@@LAT: Largum vesper
+!!!OTL@POL: Szczodry wieczór
+!!!TXO: Polish/Latin
+!!!ODT: 
+!!!GTL: Hymnbook E
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	3
+**kern	**kern	**text	**kern	**text
+*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*I"Canto II	*	*I"Canto I	*
+=1-	=1-	=1-	=1-	=1-
+*clefF4	*clefG2	*	*clefG2	*
+*k[]	*k[]	*	*k[]	*
+*met(c|)	*met(c|)	*	*met(c|)	*
+*M2/2	*M2/2	*	*M2/2	*
+4A\	4a/	Lar-	4cc\	Lar-
+4G\	4b\	-gum	4dd\	-gum
+2C/	2cc\	ves-	2ee\	ves-
+=2	=2	=2	=2	=2
+1G	1b	-per	1dd	-per
+=3	=3	=3	=3	=3
+4A\	4a/	lar-	4cc\	lar-
+4G\	4b\	-gum	4dd\	-gum
+2C/	2cc\	ves-	2ee\	ves-
+=4	=4	=4	=4	=4
+1G	1b	-per	1dd	-per
+=5	=5	=5	=5	=5
+4C/	4.cc\	rex	4ee\	rex
+4G\	.	.	4dd\	.
+.	8b\	.	.	.
+4A\	4a/	glo-	4cc\	glo-
+4E\	4g#/	-ri-	4b\	-ri-
+=6	=6	=6	=6	=6
+1AA	1a	-ae	1a	-ae
+=7||	=7||	=7||	=7||	=7||
+!!linebreak:original
+2G\	2b\	Da	2dd\	Da
+4G\	4b\	no-	4dd\	no-
+4G\	4b\	-bis	4dd\	-bis
+=8	=8	=8	=8	=8
+2A\	2a/	ho-	2cc\	ho-
+4A\	4a/	-di-	4cc\	-di-
+4E\	4g#/	-e	4b\	-e
+=9	=9	=9	=9	=9
+4F\	4a/	lar-	4cc\	lar-
+4D\	4a/	-gum	4dd\	-gum
+2E\	2g#/	ves-	2b\	ves-
+=10	=10	=10	=10	=10
+1AA	1a	-per	1a	-per
+=11	=11	=11	=11	=11
+!!linebreak:original
+2G\	2b\	da	2dd\	da
+4G\	4b\	no-	4dd\	no-
+4G\	4b\	-bis	4dd\	-bis
+=12	=12	=12	=12	=12
+4A\	4a/	ho-	4cc\	ho-
+4D\	4a/	-di-	4cc\	-di-
+2E\	2g#/	-e	2b\	-e
+=13	=13	=13	=13	=13
+4F\	4a/	lar-	4cc\	lar-
+4D\	8b/L	-gum	4dd\	-gum
+.	8a/J	.	.	.
+2E\	2g#/	ves-	2b\	ves-
+=14	=14	=14	=14	=14
+1AA	1a	-per.	1a	-per.
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!GTL: Hymnbook E
+!!!EFL: 44/117
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Translated from MusicXML and edited by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

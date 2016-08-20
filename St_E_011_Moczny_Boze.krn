@@ -1,0 +1,81 @@
+!!!COM: Anonymous
+!!!CDT: [?]
+!!!OTL@@POL: Mocny Boże
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook E
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	4
+**kern	**text	**kern	**text	**kern	**text	**kern	**text
+*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*	*I"Alto II	*	*I"Alto I	*	*I"Canto I	*
+=1-	=1-	=1-	=1-	=1-	=1-	=1-	=1-
+*clefF4	*	*clefGv2	*	*clefGv2	*	*clefG2	*
+*k[b-]	*	*k[b-]	*	*k[b-]	*	*k[b-]	*
+*M3/2	*	*M3/2	*	*M3/2	*	*M3/2	*
+2r	.	2r	.	2r	.	2r	.
+2r	.	2r	.	2r	.	2r	.
+2G\	Mo-	2d\	Mo-	2g\	Mo-	2g/	Mo-
+=2	=2	=2	=2	=2	=2	=2	=2
+1D	-cny	1d	-cny	1f	-cny	1a	-cny
+2A\	Bo-	2c#\	Bo-	2e\	Bo-	2cc#\	Bo-
+=3	=3	=3	=3	=3	=3	=3	=3
+1D	-że	1f	-że	1d	-że	1dd	-że
+2C#/	z~wy-	2e\	z~wy-	2g\	z~wy-	2ee\	z~wy-
+=4	=4	=4	=4	=4	=4	=4	=4
+2D\	-so-	2a\	-so-	2f\	-so-	2dd\	-so-
+2A\	.	2g\	.	2e\	.	2cc#\	.
+2D\	-ko-	2f\	-ko-	2d\	-ko-	2dd\	-ko-
+=5	=5	=5	=5	=5	=5	=5	=5
+1A	-ści	1e	-ści	1c#	-ści	1a	-ści
+2B-\	racz	2f\	racz	2d\	racz	2dd\	racz
+=6	=6	=6	=6	=6	=6	=6	=6
+1A	nas	1c	nas	1e	nas	1cc	nas
+2F\	wyr-	2d\	wyr-	2f\	wyr-	2a/	wyr-
+=7	=7	=7	=7	=7	=7	=7	=7
+1A	-wać	2c\	-wać	1e	-wać	1cc	-wać
+.	.	2A/	z~na-	.	.	.	.
+2G\	z~na-	2G/	.	4d\	z~na-	2b-\	z~na-
+.	.	.	.	4c\	.	.	.
+=8	=8	=8	=8	=8	=8	=8	=8
+2F#\	-szych	1d	-szych	4B-\	-szych	2a/	-szych
+.	.	.	.	4A/	.	.	.
+1G	zło-	.	.	1B-	zło-	1g	zło-
+.	.	2d\	zło-	.	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9
+1D	-ści	1d	-ści	1A	-ści	1f#	-ści
+2D\	U-	2f\	U-	2d\	U-	2fn/	U-
+=10	=10	=10	=10	=10	=10	=10	=10
+!!linebreak:original
+2A\	-cho-	1e	-cho-	1c	-cho-	2.a/	-cho-
+1F#	-waj	.	.	.	.	.	.
+.	.	.	.	.	.	4b-\	.
+.	.	2f#\	-waj	2A/	-waj	2cc\	-waj
+=11	=11	=11	=11	=11	=11	=11	=11
+1G	nas	2d\	nas	2B-\	nas	1g	nas
+.	.	4d\	na-	4G/	na-	.	.
+.	.	4c\	.	4A/	.	.	.
+2G\	na-	4d\	.	4B-\	.	2g/	na-
+.	.	4e\	.	4c\	.	.	.
+=12	=12	=12	=12	=12	=12	=12	=12
+2F#\	-głej	2f#\	-głej	2.d\	-głej	2a/	-głej
+1G	śmier-	2g\	śmier-	.	.	1b-	śmier-
+.	.	.	.	4c#\	.	.	.
+.	.	4a\	.	4d\	śmier-	.	.
+.	.	4g\	.	4e\	.	.	.
+=13	=13	=13	=13	=13	=13	=13	=13
+0D	-ci.	0f#	-ci.	0d	-ci.	0a	-ci.
+==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!GTL: Hymnbook E
+!!!EFL: 11/117
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Translated from MusicXML and edited by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

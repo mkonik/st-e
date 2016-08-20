@@ -1,0 +1,104 @@
+!!!COM: Anonymous
+!!!CDT: [?]
+!!!OTL@@POL: Urząd zbawienia ludzkiego
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook E
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	3
+**kern	**kern	**text	**kern	**text
+*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*I"Canto II	*	*I"Canto I	*
+=1-	=1-	=1-	=1-	=1-
+*clefF4	*clefG2	*	*clefG2	*
+*k[]	*k[]	*	*k[]	*
+*met(c|)	*met(c|)	*	*met(c|)	*
+*M2/2	*M2/2	*	*M2/2	*
+1C	1c	U-	1c	U-
+=2	=2	=2	=2	=2
+1C	1e	-rząd	1g	-rząd
+=3	=3	=3	=3	=3
+2F\	2f/	zba-	2a/	zba-
+2E\	2g/	-wie-	2g/	-wie-
+=4	=4	=4	=4	=4
+2F#\	2a/	-nia	2cc\	-nia
+2G\	[2g/	ludz-	2b\	ludz-
+=5	=5	=5	=5	=5
+1D	2g/]	.	1a	-kie-
+.	2f#/	-kie-	.	.
+=6	=6	=6	=6	=6
+1GG	1g	-go	1g	-go
+=7	=7	=7	=7	=7
+!!linebreak:original
+2C/	2e/	Po-	2g/	Po-
+2C/	2e/	-trze-	2g/	-trze-
+=8	=8	=8	=8	=8
+4FF/	1f	-bo-	1a	-bo-
+4GG/	.	.	.	.
+4AA/	.	.	.	.
+4BB/	.	.	.	.
+=9	=9	=9	=9	=9
+2C/	1e	-wał	1g	-wał
+4GG/	.	.	.	.
+4AA/	.	.	.	.
+=10	=10	=10	=10	=10
+2BB/	2d/	pil-	2f/	pil-
+2C/	[2c/	-nie	2e/	-nie
+=11	=11	=11	=11	=11
+1GG	2c/]	.	1d	te-
+.	2B/	te-	.	.
+=12	=12	=12	=12	=12
+1C	1c	-go	1c	-go
+=13	=13	=13	=13	=13
+!!linebreak:original
+2C/	2e/	By	2g/	By
+2C/	2e/	sw&oacute;j	2g/	sw&oacute;j
+=14	=14	=14	=14	=14
+1F	1f	u-	1a	u-
+=15	=15	=15	=15	=15
+1B-	1d	-pa-	1f	-pa-
+=16	=16	=16	=16	=16
+2c\	2e/	-dek	2g/	-dek
+2G\	[2g/	na-	2b-\	na-
+=17	=17	=17	=17	=17
+1D	2g/]	.	1a	-pra-
+.	2f#/	-pra-	.	.
+=18	=18	=18	=18	=18
+1GG	1g	-wił	1g	-wił
+=19	=19	=19	=19	=19
+!!linebreak:original
+2FF/	2a/	Czło-	2cc\	Czło-
+2GG/	2g/	-wie-	2b-\	-wie-
+=20	=20	=20	=20	=20
+2.AA/	1f	-ka	1a	-ka
+4BB-i/	.	.	.	.
+=21	=21	=21	=21	=21
+1C	1e	grze-	1g	grze-
+=22	=22	=22	=22	=22
+2.FF/	2.f/	-szne-	2.a/	-szne-
+4GG/	4e/	.	4g/	.
+=23	=23	=23	=23	=23
+4AA/	4d/	-go	2f/	-go
+4BB/	4c/	.	.	.
+2C/	[2c/	zba-	2e/	.
+=24	=24	=24	=24	=24
+1GG	2c/]	.	1d	zba-
+.	2B/	.	.	.
+=25	=25	=25	=25	=25
+[1C	[1c	-wił.	[1c	-wił.
+=26	=26	=26	=26	=26
+1C]	1c]	.	1c]	.
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!GTL: Hymnbook E
+!!!EFL: 15/117
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Translated from MusicXML and edited by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

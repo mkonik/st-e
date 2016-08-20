@@ -1,0 +1,85 @@
+!!!COM: Anonymous
+!!!CDT: [?]
+!!!OTL@@POL: Po upadku człowieka grzesznego
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook E
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	3
+**kern	**kern	**text	**kern	**text
+*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*I"Canto II	*	*I"Canto I	*
+=1-	=1-	=1-	=1-	=1-
+*clefF4	*clefG2	*	*clefG2	*
+*k[b-]	*k[b-]	*	*k[b-]	*
+*met(c|)	*met(c|)	*	*met(c|)	*
+*M2/2	*M2/2	*	*M2/2	*
+2F\	2a/	Po	2cc\	Po
+2F\	2a/	u-	2cc\	u-
+=2	=2	=2	=2	=2
+2F\	2a/	-pad-	2cc\	-pad-
+2BB-/	2b-\	-ku	2dd\	-ku
+=3	=3	=3	=3	=3
+2F\	2a/	czło-	2cc\	czło-
+2F\	2a/	-wie-	2cc\	-wie-
+=4	=4	=4	=4	=4
+2E\	2g/	-ka	2b-\	-ka
+2F\	[2f/	grzesz-	2a/	grzesz-
+=5	=5	=5	=5	=5
+1C	2f/]	.	1g	-ne-
+.	2e/	-ne-	.	.
+=6	=6	=6	=6	=6
+1FF	1f	-go	1f	-go
+=7	=7	=7	=7	=7
+!!linebreak:original
+2F\	2a/	u-	2cc\	u-
+2D\	2f/	-ża-	2a/	-ża-
+=8	=8	=8	=8	=8
+2G\	2g/	-lił	2b-\	-lił
+2F\	2a/	się	2cc\	się
+=9	=9	=9	=9	=9
+2BB-/	2b-\	Pan	2dd\	Pan
+2F\	2a/	stwo-	2cc\	stwo-
+=10	=10	=10	=10	=10
+2D\	2dd\	-rze-	2ff\	-rze-
+4E\	[2cc\	-nia	2ee\	-nia
+4F\	.	.	.	.
+=11	=11	=11	=11	=11
+2G\	2cc\]	.	1dd	swe-
+2GG/	2bni\	swe-	.	.
+=12	=12	=12	=12	=12
+1C	1cc	-go	1cc	-go
+=13	=13	=13	=13	=13
+!!linebreak:original
+2F\	2a/	ze-	2cc\	ze-
+2F\	2a/	-słał	2cc\	-słał
+=14	=14	=14	=14	=14
+2F\	2a/	na	2cc\	na
+2BB-/	2b-\	świat	2dd\	świat
+=15	=15	=15	=15	=15
+2F\	2a/	Ar-	2cc\	Ar-
+2F\	2a/	-cha-	2cc\	-cha-
+=16	=16	=16	=16	=16
+2E\	2g/	-nio-	2b-\	-nio-
+2F\	[2f/	-ła	2a/	-ła
+=17	=17	=17	=17	=17
+1C	2f/]	.	1g	swe-
+.	2e/	swe-	.	.
+=18	=18	=18	=18	=18
+[1F	[1f	-go.	[1f	-go.
+=19	=19	=19	=19	=19
+1F]	1f]	.	1f]	.
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!GTL: Hymnbook E
+!!!EFL: 14/117
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Translated from MusicXML and edited by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

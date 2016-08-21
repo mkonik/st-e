@@ -1,3 +1,12 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL@@LAT: Ave verum corpus natum
+!!!OTL@POL: Witaÿ słowo nie stworzone
+!!!TXO: Latin/Polish
+!!!ODT: 
+!!!GTL: Hymnbook E
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	4
 **kern	**kern	**text	**text	**kern	**text	**text	**kern	**text	**text
 *staff4	*staff3	*staff3	*staff3	*staff2	*staff2	*staff2	*staff1	*staff1	*staff1
 *I"Basso	*I"Tenore	*	*	*I"Canto II	*	*	*I"Canto I	*	*
@@ -131,3 +140,17 @@
 1FF	1A	-bis.	.	1cc	-bis.	.	1f	-bis.	.
 ==	==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}
+!!!pag: pp. 65v-66r 
+!!!GTL: Hymnbook E
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-05-02
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

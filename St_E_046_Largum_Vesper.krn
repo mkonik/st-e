@@ -1,3 +1,12 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL@@LAT: Largum Vesper
+!!!OTL@POL: Szczodry wieczor
+!!!TXO: Latin/Polish
+!!!ODT: 
+!!!GTL: Hymnbook E
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	5
 **kern	**kern	**text	**kern	**text	**kern	**text	**kern	**text
 *staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Basso	*I"Tenore	*	*I"Alto	*	*I"Canto II	*	*I"Canto I	*
@@ -70,3 +79,17 @@
 1AA	1A	-per.	1e	-per.	1cc#	-per.	1a	-per.
 ==	==	==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-	*-	*-
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}
+!!!pag: pp. 52v-53r 
+!!!GTL: Hymnbook E
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-05-03
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

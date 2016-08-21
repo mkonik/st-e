@@ -1,3 +1,11 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL@@POL: Iedÿnÿ Synu Oyca niebieskiego
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook E
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	3
 **kern	**kern	**text	**text	**kern	**text	**text
 *staff3	*staff2	*staff2	*staff2	*staff1	*staff1	*staff1
 *I"Basso	*I"Canto II	*	*	*I"Canto I	*	*
@@ -60,3 +68,17 @@
 1C	1cc	-nie.	.	1cc	-nie.	.
 ==	==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-	*-
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}
+!!!pag: pp. 64v-65r 
+!!!GTL: Hymnbook E
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-05-02
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

@@ -1,3 +1,11 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL@@LAT: Timet latro maledictus
+!!!TXO: Latin
+!!!ODT: 
+!!!GTL: Hymnbook A
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	3
 **kern	**text	**kern	**text	**kern	**text
 *staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *I"Basso	*	*I"Canto II	*	*I"Canto I	*
@@ -135,3 +143,17 @@
 2F\	-num.	2cc\	-num.	2a/	-num.
 ==	==	==	==	==	==
 *-	*-	*-	*-	*-	*-
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}
+!!!pag: p. pp. 31v-32r 
+!!!GTL: Hymnbook E
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-05-01
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

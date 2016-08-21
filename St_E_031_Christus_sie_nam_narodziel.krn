@@ -1,3 +1,11 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL@@POL: Christus sie nam narodzieł
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook E
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	3
 **kern	**kern	**text	**kern	**text
 *staff3	*staff2	*staff2	*staff1	*staff1
 *I"Basso	*I"Canto II	*	*I"Canto I	*
@@ -50,3 +58,17 @@
 1.FF	1.f	-rzył.	1.f	-rzył.
 ==	==	==	==	==
 *-	*-	*-	*-	*-
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}
+!!!pag: pp. 33v-34r
+!!!GTL: Hymnbook E
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-05-02
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

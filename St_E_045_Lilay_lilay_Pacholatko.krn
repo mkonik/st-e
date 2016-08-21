@@ -1,0 +1,122 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL@@POL: Lilaÿ lilaÿ Pacholątko
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook E
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	1
+**kern	**kern	**text	**kern	**text
+*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*I"Canto II	*	*I"Canto I	*
+=1-	=1-	=1-	=1-	=1-
+*clefF4	*clefG2	*	*clefG2	*
+*k[]	*k[]	*	*k[]	*
+*met(c|)	*met(c|)	*	*met(c|)	*
+*M2/2	*M2/2	*	*M2/2	*
+8A\	8a/	Li-	8cc\	Li-
+8A\	16g#/LL	-laj	16b/LL	-laj
+.	16a/JJ	.	16a/JJ	.
+8G#\	8b\	li-	8b\	li-
+8G#\	8b\	-laj	8e/	-laj
+8A\	8cc\	Pa-	8cc\	Pa-
+8F\	16b/LL	-cho-	16cc\LL	-cho-
+.	16a/JJ	.	16dd\JJ	.
+8.E\	8g#/	-lą-	8ee\	-lą-
+.	8g#/	-tko	8ee\	-tko
+16D\	.	.	.	.
+=2	=2	=2	=2	=2
+8C/	8a/	li-	8e/	li-
+8C/	8e/	-laj	16a/LL	-laj
+.	.	.	16g#/JJ	.
+8D\	16a/LL	ma-	16f#/LL	ma-
+.	16g/JJ	.	16g#/JJ	.
+8AA/	16f/LL	-leń-	8a/	-leń-
+.	16a/JJ	.	.	.
+8E\	8.a/	-kie	16b\LL	-kie
+.	.	.	16cc\JJ	.
+8EE/	.	.	16dd\LL	dzie-
+.	16g#/	dzie-	16ee\JJ	.
+8AA/	8a/	-cią-	8cc\	-cią-
+8AA/	8a/	-tko	8a/	-tko
+=3	=3	=3	=3	=3
+!!linebreak:original
+8G#\	8b\	nie	8b\	nie
+8G#\	8g#/	tur-	8ee\	tur-
+8A\	16a/LL	-buj	16cc\LL	-buj
+.	16g#/JJ	.	16b\JJ	.
+8E\	16f#/LL	się	16a/LL	się
+.	16e/JJ	.	16g#/JJ	.
+8B\	8.e/	nie	8f/	nie
+8BB/	.	.	16b/LL	fra-
+.	16d#/	fra-	16a/JJ	.
+8E\	8e/	-suj	8g#/	-suj
+8E\	8e/	się	16f/LL	się
+.	.	.	16e/JJ	.
+=4	=4	=4	=4	=4
+8G#\	8g#/	bądź	8b\	bądź
+8G#\	8b\	we-	8ee\	we-
+8A\	16a/LL	-so-	8cc\	-so-
+.	16b/JJ	.	.	.
+8D\	16cc\LL	-ły	16b/LL	-ły
+.	16dd\JJ	.	16a/JJ	.
+8E\	8ee\	boś~z	8.a/	boś~z
+8EE/	8b\	A-	.	.
+.	.	.	16g/	A-
+8AA/	8cc\	-nio-	8a/	-nio-
+8AA/	8a/	-ły	8a/	-ły
+=5	=5	=5	=5	=5
+8r	8r	.	8r	.
+8G#\	8e/	tyś	8b\	tyś
+8A\	8a/	nie-	16cc\LL	nie-
+.	.	.	16dd#\JJ	.
+8E\	8g#/	-o-	8ee\	-o-
+8.B\	8.f#/	-gar-	8.ee\	-gar-
+16BB/	16e/	-nio-	16dd#\	-nio-
+4E\	4e/	-ny	4ee\	-ny
+=6	=6	=6	=6	=6
+!!linebreak:original
+8G#\	8b\	tak	8r	.
+8G#\	8e/	to	16ee\	tak
+.	.	.	16b\	to
+4A\	4a/	jest	4cc\	jest
+8E\	8.a/	żeś	16b/LL	żeś
+.	.	.	16a/JJ	.
+8EE/	.	.	16b\LL	B&oacute;g
+.	16g/	B&oacute;g	16cc\JJ	.
+4AA/	4a/	jest	4a/	jest
+=7	=7	=7	=7	=7
+8r	8r	.	8r	.
+8G\	8e/	i	8b\	i
+8A\	8a/	nie-	16cc\LL	nie-
+.	.	.	16dd\JJ	.
+8E\	8g#/	-zwy-	8ee\	-zwy-
+8.B\	8.f/	-cię-	8.ee\	-cię-
+16BB/	16e/	-żo-	16dd#\	-żo-
+4E\	4e/	-ny	4ee\	-ny
+=8	=8	=8	=8	=8
+8G#\	8b\	tak	8r	.
+8G#\	8e/	to	16ee\	tak
+.	.	.	16b\	to
+4A\	4a/	jest	4cc\	jest
+8E\	8.a/	żeś	16b/LL	żeś
+.	.	.	16a/JJ	.
+8E\	.	.	16b\LL	B&oacute;g
+.	16g#/	B&oacute;g	16cc\JJ	.
+4AA/	4a/	jest.	4a/	jest.
+==:|!	==:|!	==:|!	==:|!	==:|!
+*-	*-	*-	*-	*-
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}
+!!!pag: pp. 51v-52r
+!!!GTL: Hymnbook E
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-05-03
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

@@ -1,0 +1,80 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL@@POL: Heÿ nam heÿ krolowie
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook E
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	3
+**kern	**kern	**text	**kern	**text
+*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*I"Canto II	*	*I"Canto I	*
+=1-	=1-	=1-	=1-	=1-
+*clefF4	*clefG2	*	*clefG2	*
+*k[]	*k[]	*	*k[]	*
+*M3/2	*M3/2	*	*M3/2	*
+2A\	2a/	Hej	2cc\	Hej
+1G	1b	nam	1dd	nam
+=2	=2	=2	=2	=2
+1.C	1.cc	hej	1.ee	hej
+=3	=3	=3	=3	=3
+2C/	2cc\	kr&oacute;-	2ee\	kr&oacute;-
+2E\	4cc\	-lo-	4ee\	-lo-
+.	4b\	.	4dd\	.
+2F\	4cc\	-wie	4ee\	-wie
+.	4dd\	.	4ff\	.
+=4	=4	=4	=4	=4
+1G	2.b\	ja-	2.dd\	ja-
+.	4a/	.	4cc\	.
+2G#\	4b\	-dą	4dd\	-dą
+.	4cc\	.	4ee\	.
+=5	=5	=5	=5	=5
+!!linebreak:original
+2A\	2a/	bez	2cc\	bez
+1D	1a	po-	1cc	po-
+=6	=6	=6	=6	=6
+1.E	1.g#	-le	1.b	-le
+=7	=7	=7	=7	=7
+2G\	2b\	kr&oacute;-	2dd\	kr&oacute;-
+2G\	2b\	-lo-	2dd\	-lo-
+2G\	2b\	-wie	2dd\	-wie
+=8	=8	=8	=8	=8
+1G	1b	ja-	1dd	ja-
+2E\	2g#/	-dą	2b\	-dą
+=9	=9	=9	=9	=9
+2A\	2a/	bez	2cc\	bez
+1G	1b	po-	1dd	po-
+=10	=10	=10	=10	=10
+!!linebreak:original
+1.C	1.cc	-le	1.ee	-le
+=11	=11	=11	=11	=11
+2C/	2cc\	wi-	2ee\	wi-
+2GG/	2b\	.	2dd\	.
+2AA/	2a/	-dzą	2cc\	-dzą
+=12	=12	=12	=12	=12
+2.D\	2.b\	gwiaz-	2.dd\	gwiaz-
+4E\	4cc\	-de	4ee\	-de
+2F\	2a/	w~no-	2cc\	w~no-
+=13	=13	=13	=13	=13
+2D\	2a/	-wym	2b\	-wym
+2E\	2.a/	ko-	1b	ko-
+2EE/	.	.	.	.
+.	4g#/	.	.	.
+=14	=14	=14	=14	=14
+1.AA	1.a	-le.	1.a	-le.
+==:|!	==:|!	==:|!	==:|!	==:|!
+*-	*-	*-	*-	*-
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}
+!!!pag: pp. 53v-54r
+!!!GTL: Hymnbook E
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-05-05
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

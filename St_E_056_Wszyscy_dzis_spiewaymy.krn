@@ -1,0 +1,86 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL@@POL: Wszyscÿ dzis spiewaÿmy
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook E
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	3
+**kern	**kern	**text	**text	**kern	**text	**text
+*staff3	*staff2	*staff2	*staff2	*staff1	*staff1	*staff1
+*I"Basso	*I"Canto II	*	*	*I"Canto I	*	*
+=1-	=1-	=1-	=1-	=1-	=1-	=1-
+*clefF4	*clefG2	*	*	*clefG2	*	*
+*k[]	*k[]	*	*	*k[]	*	*
+*met(c|)	*met(c|)	*	*	*met(c|)	*	*
+*M2/2	*M2/2	*	*	*M2/2	*	*
+8G\	8g/	Wszy-	Pa-	8g/	Wszy-	Pa-
+8G\	8d/	-scy	-nu	8g/	-scy	-nu
+8G\	8g/	dziś	Je-	8b\	dziś	Je-
+8G\	8g/	śpie-	-zu-	8b\	śpie-	-zu-
+4G\	4b\	-waj-	-so-	4dd\	-waj-	-so-
+4GG/	4g/	-my	-wi	4b\	-my	-wi
+=2	=2	=2	=2	=2	=2	=2
+8G\	8b\	we-	cześć	8dd\	we-	cześć
+8G\	8b\	-so-	i	8dd\	-so-	i
+8C/	16cc\LL	-ło	chwa-	16ee\LL	-ło	chwa-
+.	16b\JJ	.	.	16dd\JJ	.	.
+8GG/	16a/LL	krzyk-	-łę	16cc\LL	krzyk-	-łę
+.	16g/JJ	.	.	16b\JJ	.	.
+4D\	8.g/L	-nij-	daj-	4a/	-nij-	daj-
+.	16f#/Jk	.	.	.	.	.
+4GG/	4g/	-my	-my	4g/	-my	-my
+=3:|!|:	=3:|!|:	=3:|!|:	=3:|!|:	=3:|!|:	=3:|!|:	=3:|!|:
+8G\	8g/	I	.	8b\	I	.
+8G\	8g/	dzię-	.	8b\	dzię-	.
+8D\	8f#/	-kuj-	.	8a/	-kuj-	.
+8D\	8f#/	-my	.	8a/	-my	.
+4A\	4a/	za	.	4cc\	za	.
+4E\	4g#/	to	.	4b\	to	.
+=4	=4	=4	=4	=4	=4	=4
+!!linebreak:original
+8BB/	8b\	że	.	8dd\	że	.
+8GG/	8b\	nas	.	8dd\	nas	.
+8C/	16a/LL	u-	.	16cc\LL	u-	.
+.	16b/JJ	.	.	16dd\JJ	.	.
+8E\	16a/LL	-mi-	.	16cc\LL	-mi-	.
+.	16g/JJ	.	.	16b\JJ	.	.
+4D\	8.g/L	-ło-	.	4a/	-ło-	.
+.	16f#/Jk	.	.	.	.	.
+4GG/	4g/	-wał	.	4g/	-wał	.
+=5	=5	=5	=5	=5	=5	=5
+8G\	8g/	Kie-	.	8b\	Kie-	.
+8G\	8g/	-dy	.	8b\	-dy	.
+8D\	8f#/	zstą-	.	8a/	zstą-	.
+8D\	8f#/	-pić	.	8a/	-pić	.
+16AA/LL	4a/	z~nie-	.	4cc\	z~nie-	.
+16BB/	.	.	.	.	.	.
+16C/	.	.	.	.	.	.
+16D/JJ	.	.	.	.	.	.
+4E\	4g#/	-ba	.	4b\	-ba	.
+=6	=6	=6	=6	=6	=6	=6
+8BB/	8b\	dla	.	8dd\	dla	.
+8GG/	8b\	nas	.	8dd\	nas	.
+8C/	16cc\LL	nie	.	16ee\LL	nie	.
+.	16b\JJ	.	.	16dd\JJ	.	.
+16D\LL	16a/LL	li-	.	16cc\LL	li-	.
+16E\JJ	16g/JJ	.	.	16b\JJ	.	.
+4D\	8.g/L	-to-	.	4a/	-to-	.
+.	16f#/Jk	.	.	.	.	.
+4GG/	4g/	-wał.	.	4g/	-wał.	.
+==:|!	==:|!	==:|!	==:|!	==:|!	==:|!	==:|!
+*-	*-	*-	*-	*-	*-	*-
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}
+!!!pag: pp. 57v-58r
+!!!GTL: Hymnbook E
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-05-01
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

@@ -1,0 +1,101 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL@@POL: Anyeli w niebie spiewaią
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook E
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	3
+**kern	**kern	**text	**kern	**text
+*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*I"Canto II	*	*I"Canto I	*
+=1-	=1-	=1-	=1-	=1-
+*clefF4	*clefG2	*	*clefG2	*
+*k[]	*k[]	*	*k[]	*
+*met(c|)	*met(c|)	*	*met(c|)	*
+*M2/2	*M2/2	*	*M2/2	*
+4G\	4b\	A-	4dd\	A-
+8G\	8g/	-nie-	8b\	-nie-
+8F#\	8a/	-li	8cc\	-li
+4G\	4b\	w~nie-	4dd\	w~nie-
+4E\	4cc\	-bie	4ee\	-bie
+=2	=2	=2	=2	=2
+4F\	4cc\	śpie-	8dd\L	śpie-
+.	.	.	8cc\J	.
+4G\	4b\	-wa-	8dd\L	-wa-
+.	.	.	8ee\J	.
+2C/	2cc\	-ją	2cc\	-ją
+=3	=3	=3	=3	=3
+4G\	4g/	wszys-	4b\	wszys-
+8E\	8b\	-tek	8g/	-tek
+8F#\	8a/	świat	8a/	świat
+4G\	8g/L	u-	8b/L	u-
+.	8f#/J	.	8a/J	.
+4C/	8a/L	-we-	8cc\L	-we-
+.	8g/J	.	8b\J	.
+=4	=4	=4	=4	=4
+!!linebreak:original
+4D\	4g/	-se-	4.a/	-se-
+4DD/	4f#/	-la-	.	.
+.	.	.	8a/	-la-
+2GG/	2g/	-ją	2g/	-ją
+=5:|!|:	=5:|!|:	=5:|!|:	=5:|!|:	=5:|!|:
+8G\L	4b\	we-	4dd\	we-
+8A\J	.	.	.	.
+8G\L	4b\	-se-	4dd\	-se-
+8F\J	.	.	.	.
+4E\	8cc\L	-le	8ee\L	-le
+.	8dd\J	.	8ff\J	.
+4C/	8cc\L	o-	8ee\L	o-
+.	8b\J	.	8dd\J	.
+=6	=6	=6	=6	=6
+8F\L	4a/	-po-	4cc\	-po-
+8G\J	.	.	.	.
+8F\L	4a/	-wia-	4cc\	-wia-
+8E\J	.	.	.	.
+4D\	8b\L	-da-	8dd\L	-da-
+.	8cc\J	.	8ee\J	.
+4BB/	8b/L	-ją	8dd\L	-ją
+.	8a/J	.	8cc\J	.
+=7	=7	=7	=7	=7
+!!linebreak:original
+8E\L	4g/	wsze-	4b\	wsze-
+8F\J	.	.	.	.
+8E\L	4g/	-mu	4b\	-mu
+8D\J	.	.	.	.
+4C/	8a/L	świa-	8cc\L	świa-
+.	8b/J	.	8dd\J	.
+4AA/	8a/L	-tu	8cc\L	-tu
+.	8g/J	.	8b\J	.
+=8	=8	=8	=8	=8
+8D\L	4f#/	znać	4a/	znać
+8E\J	.	.	.	.
+8F#\L	4f#/	da-	4a/	da-
+8D\J	.	.	.	.
+8G\L	8g/L	-wa-	8b\L	-wa-
+8F#\J	8a/J	.	8cc\J	.
+8E\L	4b\	-ją	4dd\	-ją
+8D\J	.	.	.	.
+=9	=9	=9	=9	=9
+4C/	8a/L	ko-	8cc\L	ko-
+.	8g/J	.	8b\J	.
+8D/L	8.g/L	-lę-	4a/	-lę-
+8DD/J	.	.	.	.
+.	16f#/Jk	.	.	.
+2GG/	2g/	-da.	2g/	-da.
+==:|!	==:|!	==:|!	==:|!	==:|!
+*-	*-	*-	*-	*-
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}
+!!!pag: pp. 56v-57r
+!!!GTL: Hymnbook E
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-05-07
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

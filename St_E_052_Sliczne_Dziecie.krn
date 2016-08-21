@@ -1,0 +1,101 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL@@POL: Śliczne dziecię
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook E
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	3
+**kern	**kern	**text	**text	**kern	**text	**text
+*staff3	*staff2	*staff2	*staff2	*staff1	*staff1	*staff1
+*I"Basso	*I"Canto II	*	*	*I"Canto I	*	*
+=1-	=1-	=1-	=1-	=1-	=1-	=1-
+*clefF4	*clefG2	*	*	*clefG2	*	*
+*k[]	*k[]	*	*	*k[]	*	*
+*M3/2	*M3/2	*	*	*M3/2	*	*
+2AA/	2a/	Ślicz-	Prze-	2cc\	Ślicz-	Prze-
+4AA/	4g/	-ne	-ni-	4b\	-ne	-ni-
+4GG/	4f/	.	.	4a/	.	.
+4AA/	4e/	dzie-	-kasz	4g/	dzie-	-kasz
+4FF/	4a/	-cię	ser-	4cc\	-cię	ser-
+=2	=2	=2	=2	=2	=2	=2
+4G\	4g/	gdy	-ce	4b\	gdy	-ce
+4A\	4a/	.	.	4cc\	.	.
+4G\	2b\	łzę-	mo-	2dd\	łzę-	mo-
+4F\	.	.	.	.	.	.
+2E\	4cc\	-ta	-je	4ee\	-ta	-je
+.	4g/	.	.	4b\	.	.
+=3	=3	=3	=3	=3	=3	=3
+2F\	4.a/	wy-	twar-	4.cc\	wy-	twar-
+.	8b\	-le-	-de	8dd\	-le-	-de
+2E\	4cc\	-wasz	o-	4ee\	-wasz	o-
+.	4ee\	.	.	4gg\	.	.
+2F\	4dd\	per-	-po-	4ff\	per-	-po-
+.	4cc\	.	.	4ee\	.	.
+=4	=4	=4	=4	=4	=4	=4
+1G	1b	-lis-	-czys-	1dd	-lis-	-czys-
+2C/	2cc\	-te	-te	2cc\	-te	-te
+=5:|!	=5:|!	=5:|!	=5:|!	=5:|!	=5:|!	=5:|!
+!!linebreak:original
+=	=	=	=	=	=	=
+4C/	4cc\	Bo-	.	4ee\	Bo-	.
+4BB/	4dd\	-wiem	.	4ff\	-wiem	.
+4C/	2ee\	gdy	.	2gg\	gdy	.
+4D\	.	.	.	.	.	.
+4E\	4ff\	swo-	.	4aa\	swo-	.
+4C/	4cc\	.	.	4ee\	.	.
+=6	=6	=6	=6	=6	=6	=6
+2D\	4dd\	-jej	.	4ff\	-jej	.
+.	4cc\	.	.	4ee\	.	.
+2BB/	2b\	wiel-	.	2dd\	wiel-	.
+2GG/	2ee\	-kiej	.	2gg\	-kiej	.
+=7	=7	=7	=7	=7	=7	=7
+4A\	4.cc\	prze-	.	4.ee\	prze-	.
+4B\	.	.	.	.	.	.
+.	8b\	-ciw	.	8dd\	-ciw	.
+4A\	4a/	nam	.	4cc\	nam	.
+4G\	4cc\	.	.	4ee\	.	.
+4F\	4b\	mi-	.	4dd\	mi-	.
+4D\	4a/	.	.	4cc\	.	.
+=8	=8	=8	=8	=8	=8	=8
+1G	1b	-ło-	.	1dd	-ło-	.
+2G\	2b\	-ści	.	2dd\	-ści	.
+=9	=9	=9	=9	=9	=9	=9
+!!linebreak:original
+2C/	4.cc\	Tak	.	4.ee\	Tak	.
+.	8b\	się	.	8dd\	się	.
+4AA/	4a/	nis-	.	4cc\	nis-	.
+4BB/	4b\	.	.	4dd\	.	.
+4C/	4cc\	-ko	.	4ee\	-ko	.
+4AA/	4dd\	.	.	4ff\	.	.
+=10	=10	=10	=10	=10	=10	=10
+2GG/	2b\	po-	.	2dd\	po-	.
+2G\	2b\	-ni-	.	2dd\	-ni-	.
+2E\	2ee\	-żasz	.	2gg\	-żasz	.
+=11	=11	=11	=11	=11	=11	=11
+4F\	4.a/	z~g&oacute;r-	.	4.cc\	z~g&oacute;r-	.
+4D\	.	.	.	.	.	.
+.	8b\	-nych	.	8dd\	-nych	.
+4C/	4cc\	wy-	.	4ee\	wy-	.
+4D\	4a/	.	.	4cc\	.	.
+4E\	4dd\	-so-	.	4ff\	-so-	.
+4F\	4cc\	.	.	4ee\	.	.
+=12	=12	=12	=12	=12	=12	=12
+1G	1b	-ko-	.	1dd	-ko-	.
+2C/	2cc\	-ści.	.	2cc\	-ści.	.
+==:|!	==:|!	==:|!	==:|!	==:|!	==:|!	==:|!
+*-	*-	*-	*-	*-	*-	*-
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}
+!!!pag: pp. 55v-56r
+!!!GTL: Hymnbook E
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-05-07
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

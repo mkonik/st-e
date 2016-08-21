@@ -1,0 +1,98 @@
+!!!COM: Anonim
+!!!CDT: [?]
+!!!OTL@@POL: Dziecino niebieska
+!!!TXO: Polish
+!!!ODT: 
+!!!GTL: Hymnbook E
+!!!ARL: Opactwo św. Wojciecha, Staniątki 
+!!!voices:	3
+**kern	**kern	**text	**kern	**text
+*staff3	*staff2	*staff2	*staff1	*staff1
+*I"Basso	*I"Canto II	*	*I"Canto I	*
+=1-	=1-	=1-	=1-	=1-
+*clefF4	*clefG2	*	*clefG2	*
+*k[]	*k[]	*	*k[]	*
+*M3/2	*M3/2	*	*M3/2	*
+!LO:TX:Y=49:t=w głosie basowym pusto (nie wpisano nut ani pauz)	!	!	!	!
+1.r	2cc\	Dzie-	2ee\	Dzie-
+.	2b\	-ci-	2dd\	-ci-
+.	2a/	-no	2cc\	-no
+=2	=2	=2	=2	=2
+1.r	2g/	nie-	2b\	nie-
+.	2a/	-bie-	2cc\	-bie-
+.	2b\	-ska	2dd\	-ska
+=3	=3	=3	=3	=3
+1.r	2cc\	nie-	2ee\	nie-
+.	2cc\	-win-	1dd	-win-
+.	2b\	.	.	.
+=4	=4	=4	=4	=4
+.	.	.	eeQ/L	.
+.	.	.	ddQ/J	.
+1.r	1.cc	-na	1.cc	-na
+=5	=5	=5	=5	=5
+1.r	2cc\	Gdzież	2ee\	Gdzież
+.	2b\	two-	2dd\	two-
+.	2a/	-ja	2cc\	-ja
+=6	=6	=6	=6	=6
+!!linebreak:original
+1.r	2g/	cześć	2b\	cześć
+.	2a/	Bo-	2cc\	Bo-
+.	2b\	-gu	2dd\	-gu
+=7	=7	=7	=7	=7
+1.r	2cc\	po-	2ee\	po-
+.	2.cc\	-win-	1dd	-win-
+.	4b\	.	.	.
+=8	=8	=8	=8	=8
+.	.	.	eeQ/L	.
+.	.	.	ddQ/J	.
+1.r	1.cc	-na	1.cc	-na
+=9	=9	=9	=9	=9
+1.r	2e/	Mię-	2g/	Mię-
+.	2f#/	-dzy	2a/	-dzy
+.	2g/	byd-	2b\	byd-
+=10	=10	=10	=10	=10
+1.r	1a	-lę-	1cc	-lę-
+.	.	.	4bq/	.
+.	2a/	-ty	2cc\	-ty
+=11	=11	=11	=11	=11
+1.r	2f#/	le-	2a/	le-
+.	2g/	-żysz	2b\	-żysz
+.	2a/	prze-	2cc\	prze-
+=12	=12	=12	=12	=12
+!!linebreak:original
+1.r	1b	-świę-	1dd	-świę-
+.	.	.	4ccq/	.
+.	2b\	-ty	2dd\	-ty
+=13	=13	=13	=13	=13
+1.r	2g/	Od	2b\	Od
+.	2a/	wia-	2cc\	wia-
+.	2b\	-tr&oacute;w	2dd\	-tr&oacute;w
+=14	=14	=14	=14	=14
+1.r	2cc\	drży	2.ee\	drży
+.	4b\	.	.	.
+.	4cc\	płeć	4ff\	płeć
+.	4dd\	two-	4gg\	two-
+.	4ee\	-ja	4cc\	-ja
+=15	=15	=15	=15	=15
+1.r	2cc\	dzie-	4ff\	dzie-
+.	.	.	4ee\	.
+.	2.cc\	-cin-	1dd	-cin-
+.	4b\	.	.	.
+=16	=16	=16	=16	=16
+1.r	1.cc	-na.	1.cc	-na.
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!title: @{OTL}, @{GTL}: @{pag}, ed. @{ENC}
+!!!pag: pp. 56v-57r
+!!!GTL: Hymnbook E
+!!!EFL: 
+!!!YEM: Creative Commons CC/BY/NC/SA 4.0
+!!!ENC: Marcin Konik
+!!!END: 2015-05-07
+!!!EED: Marcin Konik
+!!!EEV: 
+!!!ONB: Encoded in vim by Marcin Konik
+!!!CharacterEncoding: utf-8
+!!!RDF**kern: l=long note in original notation
+!!!RDF**kern: i=editorial accidental
+!!muse2ps: z14jc180F

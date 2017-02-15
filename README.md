@@ -2,6 +2,7 @@
 
 Collection of Polish benedictine songs from monastery in Staniątki (near Kraków).
 The Repertory is mainly 17th-18th century (with few 16th century songs).
+Project sponsored by <a target="new" href="http://www.nauka.gov.pl/en/"> Polish Ministry of Science and Higher Education</a> in the frames of program "Mobility Plus III Edition".
 
 See: 
 

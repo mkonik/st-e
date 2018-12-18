@@ -14,4 +14,4 @@ http://historypath.pl/en/the-great-war/209-benedictines-monastery-in-staniatki
 
 http://panoramy.zbooy.pl/360/show.html?max=1&p=staniatki-klasztor-pokoj-reprezentacyjny&lang=e&t=32
 
-###This is archival version
+### This is archival version
